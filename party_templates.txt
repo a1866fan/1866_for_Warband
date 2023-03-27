@@ -1,0 +1,82 @@
+partytemplatesfile version 1
+80
+pt_none none 17 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_rescued_prisoners Rescued_Prisoners 17 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 17 0 48 7 -1 -1 -1 -1 -1 -1 
+pt_hero_party Hero_Party 17 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_village_defenders Village_Defenders 2 0 1 7 122 10 20 0 132 0 4 0 -1 -1 -1 -1 
+pt_apache_defenders Village_Defenders 2 0 1 7 63 10 25 0 -1 -1 -1 -1 -1 
+pt_comanche_defenders Village_Defenders 2 0 1 7 52 10 20 0 -1 -1 -1 -1 -1 
+pt_cattle_herd Cattle_Herd 2814749767106616 0 5 7 23 80 120 0 -1 -1 -1 -1 -1 
+pt_horses_herd Horses_Herd 281474976710716 0 5 7 24 50 80 0 -1 -1 -1 -1 -1 
+pt_looters Looters 3 0 2 312 107 3 11 0 -1 -1 -1 -1 -1 
+pt_forest_bandits Plains_Bandits 562949953421315 0 2 312 111 5 52 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits Canyon_Bandits 562949953421329 0 2 312 110 5 25 0 -1 -1 -1 -1 -1 
+pt_outlaws_american Outlaws 3 0 2 312 98 6 16 0 -1 -1 -1 -1 -1 
+pt_outlaws_mexican Outlaws 3 0 2 312 81 6 16 0 -1 -1 -1 -1 -1 
+pt_trappers Trappers 1970324836974595 0 1 7 125 2 12 0 -1 -1 -1 -1 -1 
+pt_miners Miners 1970324836974595 0 1 7 128 4 20 0 -1 -1 -1 -1 -1 
+pt_homesteaders Homesteaders 1970324836974594 0 1 7 122 6 12 0 132 1 3 0 -1 -1 -1 -1 
+pt_manhunters Vigilantes 16 0 1 137 131 3 10 0 86 3 10 0 90 3 11 0 91 2 4 0 -1 -1 
+pt_imperialists Imperialists 562949953421327 0 42 312 115 8 12 0 116 6 10 0 117 2 4 0 -1 -1 -1 
+pt_scalphunters Scalphunters 562949953421315 0 43 312 82 4 7 0 95 2 4 0 99 2 4 0 -1 -1 -1 
+pt_indian_raiders Indian_Raiders 562949953421326 0 44 312 112 5 15 0 -1 -1 -1 -1 -1 
+pt_confederate_renegades Confederate_Renegades 562949953421329 0 41 312 118 4 8 0 119 4 8 0 120 3 6 0 121 3 6 0 -1 -1 
+pt_deserters Deserters 844424930131985 0 3 312 -1 -1 -1 -1 -1 -1 
+pt_merchant_caravan Stagecoach 1407374883946557 0 1 11 85 7 13 0 -1 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 2533274790658051 0 2 312 108 14 55 0 -1 -1 -1 -1 -1 
+pt_bandits_awaiting_ransom Comanches_Awaiting_Ransom 2533274790789134 0 5 312 55 7 14 0 54 7 14 0 499 1 1 1 -1 -1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262148 0 5 7 499 1 1 0 -1 -1 -1 -1 -1 
+pt_american_chain_gang Chain_Gang 844424930131984 0 15 11 90 5 20 0 91 1 4 0 87 0 1 0 98 10 20 1 94 1 10 1 99 0 5 1 
+pt_mexican_chain_gang Chain_Gang 844424930131980 0 16 11 41 5 20 0 42 1 4 0 49 0 1 0 81 10 20 1 77 1 10 1 82 0 5 1 
+pt_village_farmers Settlers 2251799813685250 0 1 7 122 10 19 0 132 2 6 0 -1 -1 -1 -1 
+pt_village_caravan Settlers_Caravan 2814749767499838 0 1 11 122 8 11 0 132 1 4 0 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 844424930459665 0 5 7 562 1 1 0 -1 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Settlers 2251799814012930 0 5 7 122 6 7 0 132 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Traveller 844424930459665 0 5 7 561 1 1 0 -1 -1 -1 -1 -1 
+pt_sacrificed_messenger Sacrificed_Messenger 844424930459665 0 5 7 -1 -1 -1 -1 -1 -1 
+pt_bounty_hunters_honorable Honorable_Bounty_Hunters 18 0 51 524425 138 1 1 0 -1 -1 -1 -1 -1 
+pt_bounty_hunters_dishonorable Dishonorable_Bounty_Hunters 18 0 51 524425 138 1 1 0 -1 -1 -1 -1 -1 
+pt_forager_party Foraging_Party 1407374887747601 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_scout_party Scouts 281474980904977 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_patrol_party Patrol 562949957615633 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_messenger_party Messenger 4194321 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_raider_party Raiders 4503599627632657 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_raider_captives Raider_Captives 0 0 1 0 132 6 30 1 -1 -1 -1 -1 -1 
+pt_kingdom_caravan_party Carriage 7036874421960766 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_stagecoach Stagecoach 2814749767106621 0 1 7 122 1 5 0 132 1 3 0 90 6 14 0 91 1 4 0 92 1 2 0 -1 
+pt_bank_defenders Deputies 1 0 1 7 90 11 22 0 91 2 4 0 87 2 4 0 89 2 4 0 -1 -1 
+pt_deer_herd Deer_Herd 2814749767106618 0 46 7 628 8 15 0 -1 -1 -1 -1 -1 
+pt_buffalo_herd Buffalo_Herd 5629499534213179 0 46 7 629 9 18 0 -1 -1 -1 -1 -1 
+pt_prisoner_train_party Prisoner_Train 1407374887747601 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_default_prisoners Default_Prisoners 0 0 1 0 108 5 10 1 -1 -1 -1 -1 -1 
+pt_center_reinforcements Reinforcements 4503599627370499 0 1 137 85 5 30 0 87 4 20 0 -1 -1 -1 -1 
+pt_kingdom_hero_party War_Party 4259857 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_kingdom_1_reinforcements_a kingdom_2_reinforcements_a 0 0 1 0 25 6 18 0 33 2 7 0 26 2 7 0 34 1 2 0 37 1 3 0 -1 
+pt_kingdom_1_reinforcements_b kingdom_2_reinforcements_b 0 0 1 0 27 1 2 0 30 1 3 0 35 3 9 0 38 3 9 0 28 4 15 0 31 3 10 0 
+pt_kingdom_1_reinforcements_c kingdom_2_reinforcements_c 0 0 1 0 36 4 6 0 39 2 7 0 29 2 7 0 32 3 10 0 -1 -1 
+pt_kingdom_1_reinforcements_d kingdom_2_reinforcements_d 0 0 1 0 103 1 1 0 -1 -1 -1 -1 -1 
+pt_kingdom_2_reinforcements_a kingdom_4_reinforcements_a 0 0 1 0 40 8 14 0 41 4 12 0 45 1 3 0 -1 -1 -1 
+pt_kingdom_2_reinforcements_b kingdom_4_reinforcements_b 0 0 1 0 42 4 10 0 46 6 12 0 43 1 3 0 49 1 3 0 47 1 2 0 50 1 3 0 
+pt_kingdom_2_reinforcements_c kingdom_4_reinforcements_c 0 0 1 0 44 3 6 0 48 3 6 0 51 3 6 0 -1 -1 -1 
+pt_kingdom_2_reinforcements_d kingdom_4_reinforcements_d 0 0 1 0 103 1 3 0 -1 -1 -1 -1 -1 
+pt_kingdom_3_reinforcements_a kingdom_5_reinforcements_a 0 0 1 0 63 2 6 0 64 4 7 0 71 4 7 0 -1 -1 -1 
+pt_kingdom_3_reinforcements_b kingdom_5_reinforcements_b 0 0 1 0 65 4 7 0 68 2 6 0 72 4 7 0 74 3 6 0 66 4 7 0 69 2 6 0 
+pt_kingdom_3_reinforcements_c kingdom_5_reinforcements_c 0 0 1 0 67 3 6 0 70 2 6 0 73 4 7 0 75 4 7 0 -1 -1 
+pt_kingdom_3_reinforcements_d kingdom_2_reinforcements_d 0 0 1 0 103 0 0 0 -1 -1 -1 -1 -1 
+pt_kingdom_4_reinforcements_a kingdom_3_reinforcements_a 0 0 1 0 52 2 6 0 53 2 6 0 54 4 7 0 60 2 4 0 -1 -1 
+pt_kingdom_4_reinforcements_b kingdom_3_reinforcements_b 0 0 1 0 55 4 7 0 58 4 7 0 61 2 6 0 56 4 7 0 -1 -1 
+pt_kingdom_4_reinforcements_c kingdom_3_reinforcements_c 0 0 1 0 57 1 3 0 59 2 3 0 62 1 2 0 -1 -1 -1 
+pt_kingdom_4_reinforcements_d kingdom_3_reinforcements_d 0 0 1 0 103 0 0 0 -1 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_a kingdom_4_reinforcements_a 0 0 1 0 76 9 16 0 81 2 7 0 77 2 7 0 -1 -1 -1 
+pt_kingdom_5_reinforcements_b kingdom_4_reinforcements_b 0 0 1 0 82 3 6 0 78 3 6 0 83 3 6 0 79 3 6 0 -1 -1 
+pt_kingdom_5_reinforcements_c kingdom_4_reinforcements_c 0 0 1 0 84 3 6 0 80 3 6 0 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_d kingdom_4_reinforcements_d 0 0 1 0 103 1 1 0 -1 -1 -1 -1 -1 
+pt_kingdom_6_reinforcements_a kingdom_4_reinforcements_a 0 0 1 0 85 7 14 0 90 2 4 0 86 2 4 0 -1 -1 -1 
+pt_kingdom_6_reinforcements_b kingdom_4_reinforcements_b 0 0 1 0 91 3 6 0 87 3 6 0 88 3 6 0 -1 -1 -1 
+pt_kingdom_6_reinforcements_c kingdom_4_reinforcements_c 0 0 1 0 92 2 4 0 89 2 4 0 -1 -1 -1 -1 
+pt_kingdom_6_reinforcements_d kingdom_4_reinforcements_d 0 0 1 0 103 1 1 0 -1 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_a kingdom_4_reinforcements_a 0 0 1 0 93 3 7 0 98 3 7 0 94 2 6 0 -1 -1 -1 
+pt_kingdom_7_reinforcements_b kingdom_4_reinforcements_b 0 0 1 0 99 2 4 0 95 2 4 0 100 2 4 0 96 2 4 0 -1 -1 
+pt_kingdom_7_reinforcements_c kingdom_4_reinforcements_c 0 0 1 0 101 2 4 0 97 2 4 0 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_d kingdom_4_reinforcements_d 0 0 1 0 103 1 1 0 -1 -1 -1 -1 -1 

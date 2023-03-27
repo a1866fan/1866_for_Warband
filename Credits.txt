@@ -1,0 +1,9 @@
+Faces by                            "Yiyang Chen"
+
+Backgrounds by                      "TheWitcher"   (and Kartoffel)
+
+Skeleton meshes, some textures by   "gutekfiutek"  (FIXME: Kartoffel: can you please provide more detail here about what "some stuff" means?)
+
+Skies by                            "Havoc"
+
+Death Crawl animations by           "Bite Me"
