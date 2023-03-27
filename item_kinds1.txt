@@ -1,1960 +1,2575 @@
-itemsfile version 2
+itemsfile version 3
 615
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
 0
 
  itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 40.000000 100 30 0 0 0 0 0 0 0 40 0 0
+ 0
 0
 
  itm_practice_sword Practice_Sword Practice_Sword 1  practice_sword 0  12976130 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
+ 0
 0
 
  itm_heavy_practice_sword Heavy_Practice_Sword Heavy_Practice_Sword 1  heavy_practicesword 0  6684675 9223635919737716976 21 0 6.250000 100 0 0 0 0 26624 94 0 128 0 530 538
+ 0
 0
 
  itm_practice_axe Practice_Axe Practice_Axe 1  hatchet 0  79953922 9223388530091229198 24 20 2.000000 100 0 0 0 0 20480 85 0 75 0 256 532
+ 0
 0
 
- itm_arena_lance Lance Lance 1  pike 0  138706948 4222131026005760 90 10 2.500000 100 0 0 0 0 20480 96 0 150 0 537 532
+ itm_arena_lance Lance Lance 1  pike 0  138674180 4222131026005760 90 10 2.500000 100 0 0 0 0 20480 96 0 150 0 537 532
+ 0
 0
 
- itm_practice_staff Practice_Staff Practice_Staff 1  wooden_staff 0  138838020 4222129415393024 9 0 2.500000 100 0 0 0 0 16384 103 0 118 0 528 528
+ itm_practice_staff Practice_Staff Practice_Staff 1  wooden_staff 0  138805252 4222129415393024 9 0 2.500000 100 0 0 0 0 16384 103 0 118 0 528 528
+ 0
 0
 
- itm_practice_lance Practice_Lance Practice_Lance 1  joust_of_peace 0  138838020 201326848 18 0 4.250000 100 0 0 0 0 0 58 0 218 0 527 512
+ itm_practice_lance Practice_Lance Practice_Lance 1  joust_of_peace 0  138805252 201326848 18 0 4.250000 100 0 0 0 0 0 58 0 218 0 527 512
+ 0
 0
 
  itm_practice_shield Practice_Shield Practice_Shield 1  shield_round_a 0  393223 0 20 0 3.500000 100 0 1 0 0 200 100 0 50 0 0 0
+ 0
 0
 
  itm_practice_bow Practice_Bow Practice_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6291464 5905584128 0 524298 1.500000 100 0 0 95 0 0 90 40 0 0 531 0
+ 0
 0
 
  itm_practice_crossbow Practice_Crossbow Practice_Crossbow 1  crossbow 0  6291465 5637160960 0 10 3.000000 100 0 0 0 0 0 42 68 0 1 544 0
+ 0
 0
 
  itm_practice_javelin Practice_Javelin Practice_Javelin 2  javelin 0  javelins_quiver 3458764513820540928  71303178 36507484160 0 4398046511112 5.000000 100 0 0 0 0 0 91 28 75 50 539 0
+ 0
 0
 
  itm_practice_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046511112 3.500000 100 0 0 0 0 0 102 25 0 10 528 0
+ 0
 0
 
  itm_practice_throwing_daggers_100_amount Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046511112 3.500000 100 0 0 0 0 0 102 25 0 100 528 0
+ 0
 0
 
  itm_practice_horse Practice_Horse Practice_Horse 1  saddle_horse 0  1 0 37 0 0.000000 100 0 10 0 0 0 37 40 0 0 14 0
+ 0
 0
 
  itm_practice_arrows Practice_Arrows Practice_Arrows 3  arena_arrow 0  arena_arrow 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511106 1.500000 100 0 0 0 0 0 0 0 95 80 0 0
+ 0
 0
 
  itm_practice_bolts Practice_Bolts Practice_Bolts 4  bolt 0  bolt 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511106 2.250000 100 0 0 0 0 0 0 0 55 49 0 0
+ 0
 0
 
  itm_practice_arrows_10_amount Practice_Arrows Practice_Arrows 3  arrow 0  arrow 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511106 1.500000 100 0 0 0 0 0 0 0 95 10 0 0
+ 0
 0
 
  itm_practice_arrows_100_amount Practice_Arrows Practice_Arrows 3  arrow 0  arrow 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511106 1.500000 100 0 0 0 0 0 0 0 95 100 0 0
+ 0
 0
 
  itm_practice_bolts_9_amount Practice_Bolts Practice_Bolts 4  bolt 0  bolt 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511106 2.250000 100 0 0 0 0 0 0 0 55 9 0 0
+ 0
 0
 
  itm_practice_boots Practice_Boots Practice_Boots 1  boot_nomad_a 0  536874766 0 11 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_red_tourney_armor Red_Tourney_Armor Red_Tourney_Armor 1  tourn_armor_a 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_blue_tourney_armor Blue_Tourney_Armor Blue_Tourney_Armor 1  mail_shirt 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_green_tourney_armor Green_Tourney_Armor Green_Tourney_Armor 1  leather_vest 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_gold_tourney_armor Gold_Tourney_Armor Gold_Tourney_Armor 1  padded_armor 0  16777229 0 152 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_red_tourney_helmet Red_Tourney_Helmet Red_Tourney_Helmet 1  fur_hat 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_blue_tourney_helmet Blue_Tourney_Helmet Blue_Tourney_Helmet 1  fur_hat 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_green_tourney_helmet Green_Tourney_Helmet Green_Tourney_Helmet 1  hood_c 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_gold_tourney_helmet Gold_Tourney_Helmet Gold_Tourney_Helmet 1  hood_a 0  12 0 126 0 2.000000 100 16 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_shield_red Shield Shield 1  shield_round_a 0  262151 4831838208 42 33554466 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
 0
 
  itm_arena_shield_blue Shield Shield 1  shield_round_a 0  262151 4831838208 42 33554466 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
 0
 
  itm_arena_shield_green Shield Shield 1  shield_round_a 0  262151 4831838208 42 33554466 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
 0
 
  itm_arena_shield_yellow Shield Shield 1  shield_round_a 0  262151 4831838208 42 33554466 2.000000 100 0 1 0 0 360 100 0 60 0 0 0
+ 0
 0
 
  itm_arena_armor_white Arena_Armor_White Arena_Armor_White 1  arena_armorW 0  16777229 0 650 33554596 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_armor_red Arena_Armor_Red Arena_Armor_Red 1  arena_armorR 0  16777229 0 650 33554596 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_armor_blue Arena_Armor_Blue Arena_Armor_Blue 1  arena_armorB 0  16777229 0 650 33554596 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_armor_green Arena_Armor_Green Arena_Armor_Green 1  arena_armorG 0  16777229 0 650 33554596 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_armor_yellow Arena_Armor_Yellow Arena_Armor_Yellow 1  arena_armorY 0  16777229 0 650 33554596 16.000000 100 0 29 13 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_tunic_white Arena_Tunic_White_ Arena_Tunic_White_ 1  arena_tunicW 0  16777229 0 47 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_tunic_red Arena_Tunic_Red Arena_Tunic_Red 1  arena_tunicR 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_tunic_blue Arena_Tunic_Blue Arena_Tunic_Blue 1  arena_tunicB 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_tunic_green Arena_Tunic_Green Arena_Tunic_Green 1  arena_tunicG 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_tunic_yellow Arena_Tunic_Yellow Arena_Tunic_Yellow 1  arena_tunicY 0  16777229 0 27 123731968 2.000000 100 0 16 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_helmet_red Arena_Helmet_Red Arena_Helmet_Red 1  arena_helmetR 0  1073741836 0 187 167772326 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_helmet_blue Arena_Helmet_Blue Arena_Helmet_Blue 1  arena_helmetB 0  1073741836 0 187 167772326 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_helmet_green Arena_Helmet_Green Arena_Helmet_Green 1  arena_helmetG 0  1073741836 0 187 167772326 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arena_helmet_yellow Arena_Helmet_Yellow Arena_Helmet_Yellow 1  arena_helmetY 0  1073741836 0 187 167772326 1.250000 100 26 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_steppe_helmet_white Steppe_Helmet_White Steppe_Helmet_White 1  steppe_helmetW 0  1073741836 0 187 167772326 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_steppe_helmet_red Steppe_Helmet_Red Steppe_Helmet_Red 1  steppe_helmetR 0  1073741836 0 187 167772326 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_steppe_helmet_blue Steppe_Helmet_Blue Steppe_Helmet_Blue 1  steppe_helmetB 0  1073741836 0 187 167772326 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_steppe_helmet_green Steppe_Helmet_Green Steppe_Helmet_Green 1  steppe_helmetG 0  1073741836 0 187 167772326 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_steppe_helmet_yellow Steppe_Helmet_Yellow Steppe_Helmet_Yellow 1  steppe_helmetY 0  1073741836 0 187 167772326 1.250000 100 20 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_tourney_helm_white Tourney_Helm_White Tourney_Helm_White 1  tourney_helmR 0  2147483660 0 760 167772326 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_tourney_helm_red Tourney_Helm_Red Tourney_Helm_Red 1  tourney_helmR 0  2147483660 0 760 167772326 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_tourney_helm_blue Tourney_Helm_Blue Tourney_Helm_Blue 1  tourney_helmB 0  2147483660 0 760 167772326 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_tourney_helm_green Tourney_Helm_Green Tourney_Helm_Green 1  tourney_helmG 0  2147483660 0 760 167772326 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_tourney_helm_yellow Tourney_Helm_Yellow Tourney_Helm_Yellow 1  tourney_helmY 0  2147483660 0 760 167772326 2.750000 100 30 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_tactics De_Re_Militari De_Re_Militari 1  book_a 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_persuasion Rhetorica_ad_Herennium Rhetorica_ad_Herennium 1  book_b 0  20 0 5000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_leadership The_Life_of_Alixenus_the_Great The_Life_of_Alixenus_the_Great 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_intelligence Essays_on_Logic Essays_on_Logic 1  book_e 0  20 0 2900 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_trade A_Treatise_on_the_Value_of_Things A_Treatise_on_the_Value_of_Things 1  book_f 0  20 0 3100 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_weapon_mastery Modern_Firearms Modern_Firearms 1  book_d 0  20 0 4200 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_engineering Method_of_Mechanical_Theorems Method_of_Mechanical_Theorems 1  book_open 0  20 0 4000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_wound_treatment_reference The_Book_of_Healing The_Book_of_Healing 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_training_reference Manual_of_Arms Manual_of_Arms 1  book_open 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_book_surgery_reference The_Great_Book_of_Surgery The_Great_Book_of_Surgery 1  book_c 0  20 0 3500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_manacles Manacles Manacles 1  manacles 0  65547 0 2000 0 10.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_compass Compass Compass 1  compass 0  65547 0 2000 0 1.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_telescope Telescope Telescope 1  scope 0  11 0 2000 0 1.000000 10 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_smoked_fish Smoked_Fish Smoked_Fish 1  smoked_fish 0  34144267 0 118 0 15.000000 110 50 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_dried_meat Smoked_Buffalo_Meat Smoked_Buffalo_Meat 1  meat 0  34144267 0 144 0 15.000000 100 70 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_cattle_meat Beef Beef 1  raw_meat 0  34144267 0 206 0 20.000000 100 80 0 0 0 0 0 0 0 70 0 0
+ 0
 0
 
  itm_pork Pork Pork 1  fried_pig 0  34144267 0 170 0 15.000000 100 70 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_bread Bread Bread 1  bread_a 0  34144267 0 64 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_apples Apples Apples 1  apple_basket 0  34144267 0 88 0 20.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_cheese Cheese Cheese 1  cheese_b 0  34144267 0 190 0 6.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
 0
 
  itm_chicken Chicken Chicken 1  chicken_roasted 0  34144267 0 150 0 10.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_honey Squash Squash 1  marrow_b 0  34144267 0 72 0 35.000000 110 40 0 0 0 0 0 0 0 20 0 0
+ 0
 0
 
  itm_sausages Pemmican Pemmican 1  sausages 0  34144267 0 120 0 10.000000 110 40 0 0 0 0 0 0 0 40 0 0
+ 0
 0
 
  itm_cabbages Maize Maize 1  maize_b 0  34144267 0 45 0 35.000000 110 30 0 0 0 0 0 0 0 35 0 0
+ 0
 0
 
  itm_butter Butter Butter 1  butter_pot 0  34144267 0 275 0 6.000000 110 40 0 0 0 0 0 0 0 30 0 0
+ 0
 0
 
  itm_deer_meat Venison Venison 1  raw_meat 0  34144267 0 95 0 10.000000 100 40 0 0 0 0 0 0 0 30 0 0
+ 0
 0
 
  itm_wine Whiskey Whiskey 1  whiskey_square_01 0  33619979 0 141 0 30.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_ale Tequila Tequila 1  amphora_slim 0  33619979 0 84 0 30.000000 70 0 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_spice Spice Spice 1  spice_sack 0  65547 0 880 0 40.000000 25 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_deer_hide Deer_Hide Deer_Hide 1  deer_hide 0  65547 0 80 0 10.000000 50 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_grain Wheat Wheat 1  wheat_sack 0  65547 0 77 0 50.000000 110 40 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_flour Buffalo_Hide Buffalo_Hide 1  buffalo_hide 0  65547 0 120 0 15.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_iron Iron Iron 1  iron 0  65547 0 264 0 60.000000 60 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fire_wood Fire_Wood Fire_Wood 1  wood_heap_a 0  65547 0 30 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_pottery Pottery Pottery 1  jug 0  65547 0 126 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_linen Canvas Canvas 1  linen 0  65547 0 151 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_furs Furs Furs 1  fur_pack 0  65547 0 391 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_wool Wool Wool 1  wool_sack 0  65547 0 130 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_velvet Felt Felt 1  velvet 0  65547 0 425 0 40.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_tools Mining_Tools Mining_Tools 1  shovel 0  65547 0 725 0 50.000000 70 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_building_supplies Building_Supplies Building_Supplies 1  chest_simple 0  65547 0 250 0 40.000000 25 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_gold_bar Gold_Bar Gold_Bar 1  gold_bar 0  65547 0 2000 0 60.000000 25 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_silver_bar Silver_Bar Silver_Bar 1  silver_bar 0  65547 0 1200 0 50.000000 25 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_1 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 2000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_2 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 4000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_3 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 2000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_4 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 6000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_5 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 2000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_6 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 4000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_7 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 2000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_8 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 6000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_9 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 2000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificate_10 Certificate_of_Deposit Certificate_of_Deposit 1  book_open 0  11 0 4000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_certificates_end _ _ 1  book_open 0  11 0 4000 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_siege_supply Supplies Supplies 1  ale_barrel 0  11 0 96 0 40.000000 70 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_quest_wine Wine Wine 1  amphora_slim 0  11 0 46 0 40.000000 60 0 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_quest_ale Ale Ale 1  ale_barrel 0  11 0 31 0 40.000000 70 0 0 0 0 0 0 0 0 50 0 0
+ 0
 0
 
  itm_tutorial_sword Sword Sword 2  long_sword 0  scab_longsw_a 3458764513820540928  4194306 9223388564182532111 0 20 1.500000 100 0 0 0 0 18432 100 0 102 0 271 18
+ 0
 0
 
  itm_tutorial_axe Axe Axe 1  iron_ax 0  73662467 9223635923965575392 0 20 4.000000 100 0 0 0 0 19456 91 0 108 0 256 19
+ 0
 0
 
- itm_tutorial_spear Spear Spear 1  spear 0  138706948 4222124851986688 0 10 4.500000 100 0 0 0 0 0 80 0 158 0 275 0
+ itm_tutorial_spear Spear Spear 1  spear 0  138674180 4222124851986688 0 10 4.500000 100 0 0 0 0 0 80 0 158 0 275 0
+ 0
 0
 
  itm_tutorial_club Club Club 1  club 0  4587522 9223388529554358286 0 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
+ 0
 0
 
  itm_tutorial_battle_axe Battle_Axe Battle_Axe 1  battle_ax 0  73662467 9223635923965575392 0 20 5.000000 100 0 0 0 0 27648 88 0 108 0 256 27
+ 0
 0
 
  itm_tutorial_arrows Arrows Arrows 3  arrow 0  arrow 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511106 3.000000 160 0 0 0 0 0 0 0 95 20 256 0
+ 0
 0
 
  itm_tutorial_bolts Bolts Bolts 4  bolt 0  bolt 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511106 2.250000 90 0 0 0 0 0 0 0 55 18 256 0
+ 0
 0
 
  itm_tutorial_short_bow Short_Bow Short_Bow 2  short_bow 0  short_bow_carry 3458764513820540928  6291464 5905584128 0 524298 1.000000 100 0 0 95 0 0 98 49 0 0 268 0
+ 0
 0
 
  itm_tutorial_crossbow Crossbow Crossbow 1  crossbow 0  7340041 5637160960 0 10 3.000000 100 0 0 0 0 0 42 68 0 1 288 0
+ 0
 0
 
  itm_tutorial_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046511106 3.500000 100 0 0 0 0 0 102 25 0 14 16 0
+ 0
 0
 
  itm_tutorial_saddle_horse Saddle_Horse Saddle_Horse 1  saddle_horse 0  1 0 0 41876193280 0.000000 90 0 3 0 0 0 38 40 0 0 8 0
+ 0
 0
 
  itm_tutorial_shield Kite_Shield Kite_Shield 1  shield_kite_a 0  262151 4831838208 118 33554466 2.500000 100 0 1 0 0 480 82 0 150 0 0 0
+ 0
 0
 
- itm_tutorial_staff_no_attack Staff Staff 1  wooden_staff 0  138838020 4222129214062592 9 0 3.500000 100 0 0 0 0 0 120 0 115 0 512 512
+ itm_tutorial_staff_no_attack Staff Staff 1  wooden_staff 0  138805252 4222129214062592 9 0 3.500000 100 0 0 0 0 0 120 0 115 0 512 512
+ 0
 0
 
- itm_tutorial_staff Staff Staff 1  wooden_staff 0  138838020 4222129415393024 9 0 3.500000 100 0 0 0 0 16384 120 0 115 0 528 528
+ itm_tutorial_staff Staff Staff 1  wooden_staff 0  138805252 4222129415393024 9 0 3.500000 100 0 0 0 0 16384 120 0 115 0 528 528
+ 0
 0
 
  itm_feral_horse Feral_Horse Feral_Horse 1  saddle_less_horse 0  65537 0 800 41876193280 0.000000 50 0 1 0 1 100 30 44 0 0 16 0
+ 0
 0
 
  itm_donkey_a Donkey Donkey 1  donkey_a 0  65537 0 520 41876193280 0.000000 20 0 4 0 0 100 30 24 0 0 8 0
+ 0
 0
 
  itm_indian_perlino_a Perlino_American_Indian Perlino_American_Indian 1  native_horse_a 0  65537 0 911 41876193280 0.000000 6 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_indian_perlino_b Perlino_American_Indian Perlino_American_Indian 1  native_horse_b 0  65537 0 911 41876193280 0.000000 6 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_indian_light_bay_a Light_Bay_American_Indian Light_Bay_American_Indian 1  native_horse_c 0  65537 0 911 41876193280 0.000000 6 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_indian_light_bay_b Light_Bay_American_Indian Light_Bay_American_Indian 1  native_horse_d 0  65537 0 911 41876193280 0.000000 6 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_appaloosa_blue_roan Blue_Roan_Appaloosa Blue_Roan_Appaloosa 1  sumpter_horse 0  65537 0 1023 41876193280 0.000000 8 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_appaloosa_brown Brown_Appaloosa Brown_Appaloosa 1  steppepony_appy 0  65537 0 1023 41876193280 0.000000 8 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_paint_tobiano Tobiano_Paint Tobiano_Paint 1  steppepony_paint 0  65537 0 1023 41876193280 0.000000 8 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_paint_sabino Sabino_Paint Sabino_Paint 1  warhorse_russet 0  65537 0 1023 41876193280 0.000000 8 0 12 0 1 105 40 44 0 0 20 0
+ 0
 0
 
  itm_quarter_brown Brown_Quarter Brown_Quarter 1  packhorse_brown 0  65537 0 1108 41876193280 0.000000 10 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_quarter_red_roan Red_Roan_Quarter Red_Roan_Quarter 1  packhorse_redroan 0  65537 0 1108 41876193280 0.000000 10 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_quarter_bay Bay_Quarter Bay_Quarter 1  ridinghorse_bay 0  65537 0 1108 41876193280 0.000000 10 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_quarter_black Black_Quarter Black_Quarter 1  ridinghorse_black 0  65537 0 1133 41876193280 0.000000 6 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_quarter_white White_Quarter White_Quarter 1  steppehorse_white 0  65537 0 1108 41876193280 0.000000 10 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_quarter_strawberry_roan Strawberry_Roan_Quarter Strawberry_Roan_Quarter 1  steppepony_strawberry 0  65537 0 1108 41876193280 0.000000 10 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_quarter_grulla Grulla_Quarter Grulla_Quarter 1  warhorse_grulla 0  65537 0 1108 41876193280 0.000000 10 0 12 0 1 105 36 44 0 0 24 0
+ 0
 0
 
  itm_mustang_steel_grey Steel_Grey_Mustang Steel_Grey_Mustang 1  saddle_horse 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_light_bay Light_Bay_Mustang Light_Bay_Mustang 1  hunting_horse 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_brown Brown_Mustang Brown_Mustang 1  packhorse_brown 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_dapple_grey Dapple_Grey_Mustang Dapple_Grey_Mustang 1  packhorse_dapplegrey 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_bay Bay_Mustang Bay_Mustang 1  ridinghorse_bay 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_black Black_Mustang Black_Mustang 1  ridinghorse_black 0  65537 0 1446 41876193280 0.000000 6 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_chestnut Chestnut_Mustang Chestnut_Mustang 1  ridinghorse_chestnut 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_buckskin Buckskin_Mustang Buckskin_Mustang 1  steppehorse_buckskin 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_silver_dapple Silver_Dapple_Mustang Silver_Dapple_Mustang 1  steppehorse_silverdapple 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_white White_Mustang White_Mustang 1  steppehorse_white 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_red_roan Red_Roan_Mustang Red_Roan_Mustang 1  packhorse_redroan 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_strawberry_roan Strawberry_Roan_Mustang Strawberry_Roan_Mustang 1  steppepony_strawberry 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_dark_bay Dark_Bay_Mustang Dark_Bay_Mustang 1  warhorse_drkbay 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_mustang_grulla Grulla_Mustang Grulla_Mustang 1  warhorse_grulla 0  65537 0 1392 41876193280 0.000000 10 0 15 0 2 120 36 40 0 0 20 0
+ 0
 0
 
  itm_morgan_bay Bay_Morgan Bay_Morgan 1  ridinghorse_bay 0  65537 0 1685 41876193280 0.000000 4 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_morgan_black Black_Morgan Black_Morgan 1  ridinghorse_black 0  65537 0 1731 41876193280 0.000000 2 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_morgan_chestnut Chestnut_Morgan Chestnut_Morgan 1  ridinghorse_chestnut 0  65537 0 1685 41876193280 0.000000 4 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_morgan_perlino Perlino_Morgan Perlino_Morgan 1  courser 0  65537 0 1731 41876193280 0.000000 2 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_morgan_red_roan Red_Roan_Morgan Red_Roan_Morgan 1  packhorse_redroan 0  65537 0 1731 41876193280 0.000000 2 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_morgan_buckskin Buckskin_Morgan Buckskin_Morgan 1  steppehorse_buckskin 0  65537 0 1731 41876193280 0.000000 2 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_morgan_silver_dapple Silver_Dapple_Morgan Silver_Dapple_Morgan 1  steppehorse_silverdapple 0  65537 0 1731 41876193280 0.000000 2 0 15 0 2 90 44 40 0 0 20 0
+ 0
 0
 
  itm_standardbred_chestnut Chestnut_Standardbred Chestnut_Standardbred 1  ridinghorse_chestnut 0  65537 0 3862 41876193280 0.000000 4 0 12 0 3 90 44 44 0 0 20 0
+ 0
 0
 
  itm_standardbred_black Black_Standardbred Black_Standardbred 1  ridinghorse_black 0  65537 0 4003 41876193280 0.000000 2 0 12 0 3 90 44 44 0 0 20 0
+ 0
 0
 
  itm_standardbred_red_roan Red_Roan_Standardbred Red_Roan_Standardbred 1  packhorse_redroan 0  65537 0 4003 41876193280 0.000000 2 0 12 0 3 90 44 44 0 0 20 0
+ 0
 0
 
  itm_standardbred_dapple_grey Dapple_Grey_Standardbred Dapple_Grey_Standardbred 1  packhorse_dapplegrey 0  65537 0 4003 41876193280 0.000000 2 0 12 0 3 90 44 44 0 0 20 0
+ 0
 0
 
  itm_standardbred_dark_bay Dark_Bay_Standardbred Dark_Bay_Standardbred 1  warhorse_drkbay 0  65537 0 4003 41876193280 0.000000 2 0 12 0 3 90 44 44 0 0 20 0
+ 0
 0
 
  itm_thouroughbred_brown Brown_Thouroughbred Brown_Thouroughbred 1  packhorse_brown 0  65537 0 4003 41876193280 0.000000 2 0 9 0 4 90 44 48 0 0 16 0
+ 0
 0
 
  itm_thouroughbred_chestnut Chestnut_Thouroughbred Chestnut_Thouroughbred 1  ridinghorse_chestnut 0  65537 0 4003 41876193280 0.000000 2 0 9 0 4 90 44 48 0 0 16 0
+ 0
 0
 
  itm_thouroughbred_bay Bay_Thouroughbred Bay_Thouroughbred 1  ridinghorse_bay 0  65537 0 4003 41876193280 0.000000 2 0 9 0 4 90 44 48 0 0 16 0
+ 0
 0
 
  itm_thouroughbred_black Black_Thouroughbred Black_Thouroughbred 1  ridinghorse_black 0  65537 0 4003 41876193280 0.000000 2 0 9 0 4 90 44 48 0 0 16 0
+ 0
 0
 
  itm_thouroughbred_white White_Thouroughbred White_Thouroughbred 1  steppehorse_white 0  65537 0 4003 41876193280 0.000000 2 0 9 0 4 90 44 48 0 0 16 0
+ 0
 0
 
  itm_leather_gloves Leather_Gloves Leather_Gloves 1  1866_glove_L 0  65551 0 110 0 0.000000 120 0 1 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_gloves_b Leather_Gloves Leather_Gloves 1  black_glove_L 0  65551 0 110 0 0.000000 120 0 1 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_wine_bottle Wine_Bottle Wine_Bottle 1  m_bottleL 0  15 0 110 0 1.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_wrapping_boots Wrapping_Boots Wrapping_Boots 1  boots_e 0  536940302 0 210 123731968 1.000000 50 0 0 4 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_woolen_hose Woolen_Hose Woolen_Hose 1  woolen_hose 0  536940302 0 110 123731968 1.000000 50 0 0 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_blue_hose Blue_Hose Blue_Hose 1  blue_leggings 0  536940302 0 190 123731968 1.000000 50 0 0 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hunter_boots Hunter_Boots Hunter_Boots 1  boots_b 0  536940302 0 250 123731968 1.250000 50 0 0 5 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hide_boots Stitched_Hide_Boots Stitched_Hide_Boots 1  boots_c 0  536940302 0 270 123731968 1.000000 70 0 0 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_ankle_boots Ankle_Boots Ankle_Boots 1  boots_a 0  536940302 0 275 123731968 1.000000 50 0 0 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_nomad_boots Wrapped_Hide_Boots Wrapped_Hide_Boots 1  boots_d 0  536940302 0 216 123731968 1.250000 70 0 0 5 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_boots Leather_Boots Leather_Boots 1  leather_boots_cowboy 0  536936462 0 212 123731968 1.250000 100 0 0 7 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_black_boots Black_Leather_Boots Black_Leather_Boots 1  black_boots_cowboy 0  536936462 0 222 123731968 1.250000 70 0 0 7 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_boots_spur Leather_Boots_with_Spurs Leather_Boots_with_Spurs 1  leather_boots_spur 0  536936462 0 235 123731968 1.250000 100 0 0 7 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_black_boots_spur Black_Leather_Boots_with_Spurs Black_Leather_Boots_with_Spurs 1  black_boots_spur 0  536936462 0 248 123731968 1.250000 70 0 0 7 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_steel_toed_boots Steel_Toed_Boots Steel_Toed_Boots 1  soldier_boots 0  536940302 0 270 123731968 1.000000 70 0 0 6 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_soldier_brogan_us Soldier_Brogan_US Soldier_Brogan_US 1  soldier_boots_b 0  536940302 0 270 123731968 1.000000 70 0 0 5 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_soldier_brogan_csa Soldier_Brogan_CSA Soldier_Brogan_CSA 1  soldier_boots_c 0  536940302 0 270 123731968 1.000000 70 0 0 5 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_jacket Leather_Jacket Leather_Jacket 1  jacket 0  536936461 0 1350 123731968 3.000000 35 0 5 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_rawhide_coat Rawhide_Coat Rawhide_Coat 1  tunic_fur 0  553713677 0 999 123731968 4.000000 100 0 5 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fur_coat Fur_Coat Fur_Coat 1  fur_coat 0  553713677 0 1205 123731968 4.000000 25 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_pilgrim_disguise Pilgrim_Disguise Pilgrim_Disguise 1  pilgrim_outfit 0  553648141 0 25 123731968 2.000000 100 0 5 4 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_dress Dress Dress 1  dress 0  553713677 0 160 123731968 1.000000 100 0 3 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_blue_dress Blue_Dress Blue_Dress 1  dress_a 0  553713677 0 160 123731968 1.000000 100 0 3 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_peasant_dress Peasant_Dress Peasant_Dress 1  dress_b 0  553713677 0 160 123731968 1.000000 100 0 3 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_woolen_dress Woolen_Dress Woolen_Dress 1  woolen_dress 0  553713677 0 250 123731968 1.750000 100 0 4 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_shirt Shirt Shirt 1  shirt 0  553713677 0 220 123731968 1.000000 100 0 4 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_union_suit Union_Suit Union_Suit 1  union_suit 0  553713677 0 110 123731968 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_linen_tunic Linen_Tunic Linen_Tunic 1  linen_tunic 0  553713677 0 250 123731968 1.000000 50 0 4 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_short_tunic Rich_Tunic Rich_Tunic 1  cvl_costume_a 0  553713677 0 210 123731968 1.000000 50 0 4 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_robe Monk_Robe Monk_Robe 1  robe 0  553713677 0 300 123731968 1.500000 50 0 9 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_coarse_tunic Coarse_Tunic Coarse_Tunic 1  coarse_tunic_a 0  553713677 0 350 123731968 2.000000 50 0 4 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_apron Leather_Apron Leather_Apron 1  leather_apron 0  553713677 0 481 123731968 3.000000 50 0 5 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_vest Leather_Vest Leather_Vest 1  leather_vest 0  553713677 0 650 123731968 4.000000 50 0 5 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_nomad_vest Buffalo_Hide_Coat Buffalo_Hide_Coat 1  trapper_vest 0  553713677 0 920 123731968 6.000000 50 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_ragged_outfit Blacksmith's_Outfit Blacksmith's_Outfit 1  ragged_outfit_a 0  553713677 0 820 123731968 6.000000 50 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sheriff_jacket_a Sheriff_Jacket Sheriff_Jacket 1  sheriff_jacket_a 0  553713677 0 695 123731968 2.500000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cowboy_shirt Cowboy_Shirt Cowboy_Shirt 1  cowboy_shirt 0  553713677 0 311 123731968 2.000000 100 0 5 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cowboy_shirt_b Cowboy_Shirt Cowboy_Shirt 1  cowboy_shirt_b 0  553713677 0 306 123731968 2.000000 100 0 5 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cowboy_shirt_c Cowboy_Shirt Cowboy_Shirt 1  cowboy_shirt_c 0  553713677 0 305 123731968 2.000000 100 0 5 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cowboy_shirt_d Cowboy_Shirt Cowboy_Shirt 1  cowboy_shirt_d 0  553713677 0 310 123731968 2.000000 100 0 5 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cowboy_shirt_e Cowboy_Shirt Cowboy_Shirt 1  cowboy_shirt_e 0  553713677 0 399 123731968 2.000000 50 0 5 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_overcoat_a Grey_Overcoat Grey_Overcoat 1  greycoat_b 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_overcoat_b Brown_Coat Brown_Coat 1  browncoat_b 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_overcoat_c Black_Coat Black_Coat 1  blackcoat_b 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_overcoat_d Tan_Coat Tan_Coat 1  tancoat_b 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_waistcoat_a Brown_Longcoat Brown_Longcoat 1  waistcoat_a 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_waistcoat_ab Black_Longcoat Black_Longcoat 1  waistcoat_ab 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_waistcoat_b Closed_Black_Coat Closed_Black_Coat 1  waistcoat_b 0  553713677 0 690 123731968 3.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_waistcoat_bb Closed_Brown_Coat Closed_Brown_Coat 1  waistcoat_bb 0  553713677 0 690 123731968 3.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_waistcoat_c Open_Brown_Coat Open_Brown_Coat 1  waistcoat_c 0  553713677 0 690 123731968 3.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_waistcoat_cb Open_Black_Coat Open_Black_Coat 1  waistcoat_cb 0  553713677 0 690 123731968 3.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_a U.S._1st_Lieutenant_Uniform U.S._1st_Lieutenant_Uniform 1  1866_us_1lt_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_b U.S._2nd_Lieutenant_Uniform U.S._2nd_Lieutenant_Uniform 1  1866_us_2lt_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_c U.S._Brigadier_General_Uniform U.S._Brigadier_General_Uniform 1  1866_us_bg_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_d U.S._Colonel_Uniform U.S._Colonel_Uniform 1  1866_us_col_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_e U.S._Captain_Uniform U.S._Captain_Uniform 1  1866_us_cpt_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_f U.S._Lieutenant_Colonel_Uniform U.S._Lieutenant_Colonel_Uniform 1  1866_us_ltc_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_g U.S._Lieutnant_General_Uniform U.S._Lieutnant_General_Uniform 1  1866_us_ltg_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_h U.S._Major_Uniform U.S._Major_Uniform 1  1866_us_maj_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_i U.S._Major_General_Uniform U.S._Major_General_Uniform 1  1866_us_mg_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_j U.S._Cavalry_NCO_1st_Sergeant_Uniform U.S._Cavalry_NCO_1st_Sergeant_Uniform 1  1866_us_nco_1sgt_cav_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_k U.S._NCO_1st_Sergeant_Uniform U.S._NCO_1st_Sergeant_Uniform 1  1866_us_nco_1sgt_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_l U.S._NCO_Corporal_Uniform U.S._NCO_Corporal_Uniform 1  1866_us_nco_cpl_cav_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_m U.S._NCO_Corporal_Uniform U.S._NCO_Corporal_Uniform 1  1866_us_nco_cpl_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_n U.S._Cavalry_NCO_RCT_Uniform U.S._Cavalry_NCO_RCT_Uniform 1  1866_us_nco_rct_cav_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_uniform_o U.S._NCO_RCT_Uniform U.S._NCO_RCT_Uniform 1  1866_us_nco_rct_unif 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_uniform_a Mexican_Uniform_Private,_3rd_Bn._Mobile_Nat._Gd. Mexican_Uniform_Private,_3rd_Bn._Mobile_Nat._Gd. 1  mexican_uniform_a 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_uniform_b Mexican_Uniform_Private,_6th_Line_Inf._Bn. Mexican_Uniform_Private,_6th_Line_Inf._Bn. 1  mexican_uniform_b 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_uniform_c Mexican_Uniform_Private,_Field_Arty. Mexican_Uniform_Private,_Field_Arty. 1  mexican_uniform_c 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_uniform_d Mexican_Uniform_Private,_Line_Inf. Mexican_Uniform_Private,_Line_Inf. 1  mexican_uniform_d 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_uniform_e Mexican_Uniform_Private,_2nd_Morelia_Bn.,_Nat._Gd. Mexican_Uniform_Private,_2nd_Morelia_Bn.,_Nat._Gd. 1  mexican_uniform_e 0  553713677 0 800 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_us_coat Union_Overcoat Union_Overcoat 1  us_coat 0  553713677 0 1220 123731968 6.000000 100 0 7 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_a Confederate_1st_Lieutenant_Uniform Confederate_1st_Lieutenant_Uniform 1  1866_cs_1lt_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_b Confederate_2nd_Lieutenant_Uniform Confederate_2nd_Lieutenant_Uniform 1  1866_cs_2lt_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_c Confederate_Captain_Uniform Confederate_Captain_Uniform 1  1866_cs_cpt_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_d Confederate_Cavalry_NCO_1st_Sergeant_Uniform Confederate_Cavalry_NCO_1st_Sergeant_Uniform 1  1866_cs_nco_1sgt_cav_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_e Confederate_NCO_1st_Sergeant_Uniform Confederate_NCO_1st_Sergeant_Uniform 1  1866_cs_nco_1sgt_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_f Confederate_Cavalry_NCO_Corporal_Uniform Confederate_Cavalry_NCO_Corporal_Uniform 1  1866_cs_nco_cpl_cav_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_g Confederate_NCO_Corporal_Uniform Confederate_NCO_Corporal_Uniform 1  1866_cs_nco_cpl_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_h Confederate_Cavalry_NCO_RCT_Uniform Confederate_Cavalry_NCO_RCT_Uniform 1  1866_cs_nco_rct_cav_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_uniform_i Confederate_NCO_RCT_Uniform Confederate_NCO_RCT_Uniform 1  1866_cs_nco_rct_unif 0  553713677 0 711 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_coat Confederate_Overcoat Confederate_Overcoat 1  csa_coat 0  553713677 0 1454 123731968 6.000000 100 0 8 4 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_jerkin_cs Confederate_Uniform Confederate_Uniform 1  leather_jerkin_cs 0  553713677 0 755 123731968 4.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_poncho_a Poncho Poncho 1  poncho_a 0  536936461 0 210 123731968 2.000000 100 0 4 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_poncho_b Poncho Poncho 1  poncho_b 0  553713677 0 210 123731968 2.000000 100 0 4 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_tunic Mexican_Tunic Mexican_Tunic 1  mexican_tunic 0  553713677 0 150 123731968 2.000000 100 0 4 1 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_jacket Mexican_Jacket Mexican_Jacket 1  mexican_jacket 0  553713677 0 263 123731968 3.000000 100 0 6 2 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_native_body_warpaint A_bucket_of_paint A_bucket_of_paint 1  indian_body 0  16842765 10 0 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 1
 -50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1981 3 1729382256910270508 1224979098644774912 1224979098644774913 
 
  itm_prisoner_suit Prisoner_Suit Prisoner_Suit 1  prisoner_suit 0  16777229 10 0 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_apache_vest_a Shirt_and_Vest Shirt_and_Vest 1  apache_vest_a 0  553713677 0 780 123731968 2.000000 100 0 5 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_apache_vest_b Shirt_and_Vest Shirt_and_Vest 1  apache_vest_b 0  553713677 0 780 123731968 2.000000 100 0 5 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_shirt Leather_Shirt Leather_Shirt 1  leather_shirt 0  16842765 0 300 123731968 2.000000 100 0 5 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_leather_armor Native_Leather_Armor Native_Leather_Armor 1  leather_armor 0  16842765 0 1000 123731968 2.500000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 1
 -50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1981 3 1729382256910270509 1224979098644774912 1224979098644774913 
 
  itm_frock_a Frock_Coat Frock_Coat 1  frock_a 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_b Frock_Coat Frock_Coat 1  frock_b 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_c Frock_Coat Frock_Coat 1  frock_c 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_d Frock_Coat Frock_Coat 1  frock_d 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_e Frock_Coat Frock_Coat 1  frock_e 0  553713677 0 720 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_f Frock_Coat Frock_Coat 1  frock_f 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_g Frock_Coat Frock_Coat 1  frock_g 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_h Frock_Coat Frock_Coat 1  frock_h 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_i Frock_Coat Frock_Coat 1  frock_i 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_j Frock_Coat Frock_Coat 1  frock_j 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_k Frock_Coat Frock_Coat 1  frock_k 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_l Frock_Coat Frock_Coat 1  frock_l 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_m Frock_Coat Frock_Coat 1  frock_m 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_n Frock_Coat Frock_Coat 1  frock_n 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_o Frock_Coat Frock_Coat 1  frock_Argyle 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_p Frock_Coat Frock_Coat 1  frock_FDL 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_frock_q Frock_Coat Frock_Coat 1  frock_Plaid 0  553713677 0 620 123731968 3.000000 100 0 6 3 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_wimple_a Wimple Wimple 1  wimple_a 0  1610612748 0 100 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_wimple_with_veil Wimple_with_Veil Wimple_with_Veil 1  wimple_b 0  1610612748 0 100 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_straw_hat Straw_Hat Straw_Hat 1  straw_hat 0  536936460 0 130 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_common_hood Hood Hood 2  hood_a 0  hood_d 0  536870924 0 120 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_headcloth Headcloth Headcloth 1  headcloth 0  536870924 0 25 123731968 0.500000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_woolen_hood Woolen_Hood Woolen_Hood 1  woolen_hood 0  536870924 0 140 123731968 1.000000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fur_hat Fur_Hat Fur_Hat 1  hat_fur_a 0  536936460 0 180 123731968 0.500000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_woolen_cap Woolen_Cap Woolen_Cap 1  woolen_cap 0  536936460 0 138 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_felt_hat Felt_Hat Felt_Hat 1  felt_hat_b 0  536870924 0 130 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_arming_cap Linen_Dust_Cap Linen_Dust_Cap 1  linen_arming_cap 0  536870924 0 226 123731968 1.000000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_pilgrim_hood Pilgrim_Hood Pilgrim_Hood 1  pilgrim_hood 0  536870924 0 35 123731968 1.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_1_1 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_1_1 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_1_2 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_1_2 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_1_3 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_1_3 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_2_1 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_2_1 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_2_2 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_2_2 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_2_3 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_2_3 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_a_2_4 Small_Sombrero Small_Sombrero 1  ym_sombrero_small_2_4 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_1_1 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_1_1 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_1_2 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_1_2 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_1_3 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_1_3 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_1_4 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_1_4 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_2_1 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_2_1 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_2_2 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_2_2 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_2_3 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_2_3 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_b_2_4 Large_Sombrero Large_Sombrero 1  ym_sombrero_large_2_4 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_c Black_Decorated_Sombrero Black_Decorated_Sombrero 1  ym_sombrero_large_dec_black 0  553713676 0 111 123731968 0.000000 15 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_d White_Decorated_Sombrero White_Decorated_Sombrero 1  ym_sombrero_large_dec_felt 0  553713676 0 111 123731968 0.000000 15 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_1_1 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_1_1 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_1_2 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_1_2 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_1_3 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_1_3 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_1_4 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_1_4 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_2_1 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_2_1 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_2_2 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_2_2 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_2_3 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_2_3 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_e_2_4 Squared_Sombrero Squared_Sombrero 1  ym_sombrero_small_sq_2_4 0  553713676 0 81 123731968 0.000000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_c_bandana Black_Sombrero_with_Bandana Black_Sombrero_with_Bandana 1  ym_sombrero_large_dec_black_bandana 0  553713676 0 121 123731968 0.250000 50 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_sombrero_d_bandana White_Sombrero_with_Bandana White_Sombrero_with_Bandana 1  ym_sombrero_large_dec_felt_bandana 0  553713676 0 121 123731968 0.250000 50 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_imperial_hat Mexican_Imperial_Hat Mexican_Imperial_Hat 1  russian_hat 0  536936460 0 293 123731968 0.500000 15 4 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_officer_hat Mexican_Officer_Shako Mexican_Officer_Shako 1  mexican_officer_hat 0  536936460 0 172 123731968 0.250000 45 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_officer_hat_alt Mexican_Officer_Shako Mexican_Officer_Shako 1  ym_shako_mex_officer 0  536936460 0 172 123731968 0.250000 45 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_soldier_hat Mexican_Regular_Shako Mexican_Regular_Shako 1  ym_shako_mex_soldier 0  536936460 0 168 123731968 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_hat_1 Mexican_Regular_1 Mexican_Regular_1 1  mexican_hat_1 0  536936460 0 168 123731968 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_hat_2 Mexican_Regular_2 Mexican_Regular_2 1  mexican_hat_2 0  536936460 0 168 123731968 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_hat_3 Mexican_Regular_3 Mexican_Regular_3 1  mexican_hat_3 0  536936460 0 168 123731968 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_mexican_hat_4 Mexican_Regular_4 Mexican_Regular_4 1  mexican_hat_4 0  536936460 0 168 123731968 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_a U.S._Cavalry_Hardee_Hat U.S._Cavalry_Hardee_Hat 1  1866_us_cav_hardee 0  553713676 0 120 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_b U.S._Cavalry_Slouch_Hat U.S._Cavalry_Slouch_Hat 1  1866_us_cav_slouch 0  553713676 0 120 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_c U.S._Cavalry_Flat_Slouch_Hat U.S._Cavalry_Flat_Slouch_Hat 1  1866_us_cav_slouch_lc 0  553713676 0 120 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_d U.S._Hardee_Hat U.S._Hardee_Hat 1  1866_us_inf_hardee 0  553713676 0 120 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_e U.S._Slouch_Hat U.S._Slouch_Hat 1  1866_us_inf_slouch 0  553713676 0 120 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_f U.S._Flat_Slouch_Hat U.S._Flat_Slouch_Hat 1  1866_us_inf_slouch_lc 0  553713676 0 120 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_g U.S._Cavalry_Hat_with_Cloth U.S._Cavalry_Hat_with_Cloth 1  cavalry_hat_b 0  536936460 0 149 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_hat_a Confederate_Slouch_Hat Confederate_Slouch_Hat 1  1866_slouch 0  553713676 0 110 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_csa_hat_b Confederate_Flat_Slouch_Hat Confederate_Flat_Slouch_Hat 1  1866_slouch_lc 0  553713676 0 110 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_brown Brown_Hat Brown_Hat 1  hat_brown 0  553713676 0 110 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_black Black_Hat Black_Hat 1  hat_black 0  553713676 0 110 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_a Straw_Cowboy_Hat Straw_Cowboy_Hat 1  hat_colada 0  553713676 0 82 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_d Brown_Cowboy_Hat Brown_Cowboy_Hat 1  hat_brown_colada 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_a_bandana Straw_Cowboy_Hat_with_Bandana Straw_Cowboy_Hat_with_Bandana 1  hat_colada_bandana 0  16842764 0 86 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_d_bandana Brown_Cowboy_Hat_with_Bandana Brown_Cowboy_Hat_with_Bandana 1  hat_brown_colada_bandana 0  16842764 0 89 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_ab Straw_Cowboy_Hat Straw_Cowboy_Hat 1  hat_colada_cigarette 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_ac Straw_Cowboy_Hat Straw_Cowboy_Hat 1  hat_colada_straw 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_cigarette_only Cigarette Cigarette 1  hat_cigarette_only 0  553713676 0 5 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_straw_only Chewing_Straw Chewing_Straw 1  hat_straw_only 0  553713676 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_trapper_hat_a Coonskin_Cap Coonskin_Cap 1  trapper_hat_a 0  536936460 0 753 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_trapper_hat_b Coonskin_Cap Coonskin_Cap 1  trapper_hat_b 0  536936460 0 705 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_winter Cowboy_Hat Cowboy_Hat 1  hat_winter 0  553713676 0 162 123731968 0.250000 50 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_bowler Bowler Bowler 1  bowler 0  536936460 0 99 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_undertaker_hat Cylinder_Hat Cylinder_Hat 1  undertaker_hat 0  536936460 0 170 123731968 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_clown_headpiece Clown_Headpiece Clown_Headpiece 1  clown_headpiece 0  16777228 0 24 123731968 0.250000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_chieftain_hat Chieftain_Hat Chieftain_Hat 1  feathers 0  16846604 0 1500 123731968 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_horns Horns Horns 1  horns 0  16842764 0 750 123731968 0.250000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_feather_a Feather Feather 1  feather_a 0  16842764 0 100 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_feather_b Feathers Feathers 1  feather_b 0  16842764 0 100 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_feather_c Feathers Feathers 1  indian_hat_a 0  65548 0 750 123731968 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_cavalry_hat_a_apache Cavalry_Hat Cavalry_Hat 1  cavalry_hat_a_apache 0  65548 0 190 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_santahat Mysterious_Hat Mysterious_Hat 1  santahat 0  12 0 66 123731968 0.000000 15 1 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_top_hat_white Top_Hat Top_Hat 1  top_hat_white 0  553713676 0 120 123731968 0.250000 50 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_top_hat_black Top_Hat Top_Hat 1  top_hat_black 0  553713676 0 120 123731968 0.250000 50 3 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_hat_banded Banded_Cowboy_Hat Banded_Cowboy_Hat 1  hat_colada_b 0  553713676 0 82 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_campaign_hat_a Campaign_Hat Campaign_Hat 1  campaign_hat_a 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_campaign_hat_b Campaign_Hat Campaign_Hat 1  campaign_hat_b 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_campaign_hat_c Campaign_Hat Campaign_Hat 1  campaign_hat_c 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_campaign_hat_d Campaign_Hat Campaign_Hat 1  campaign_hat_d 0  553713676 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fez1_a Fez Fez 1  fez1_a 0  536936460 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fez1_b Fez Fez 1  fez1_b 0  536936460 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fez2_a Fez Fez 1  fez2_a 0  536936460 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_fez2_b Fez Fez 1  fez2_b 0  536936460 0 72 123731968 0.250000 100 2 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_native_shield_a Round_Shield Round_Shield 1  native_shield_a 0  69639 5100273664 120 33554466 2.000000 100 0 24 0 0 120 110 0 1 0 0 0
+ 0
 0
 
  itm_native_shield_b Round_Shield Round_Shield 1  native_shield_b 0  69639 5100273664 120 33554466 2.000000 100 0 24 0 0 120 110 0 1 0 0 0
+ 0
 0
 
  itm_wooden_stick Wooden_Stick Wooden_Stick 1  wooden_stick 0  4587522 9223388529554358286 40 0 2.500000 100 0 0 0 0 13312 99 0 90 0 256 525
+ 0
 0
 
  itm_club Club Club 1  club 0  4587522 9223388529554358286 60 0 2.500000 100 0 0 0 0 15360 95 0 95 0 256 527
+ 0
 0
 
  itm_sledgehammer Wooden_Railroad_Hammer Wooden_Railroad_Hammer 1  maul_c 0  6750211 9223635925844623584 552 20 7.000000 100 0 0 0 12 35840 82 0 82 0 256 547
+ 0
 0
 
  itm_warhammer Metal_Railroad_Hammer Metal_Railroad_Hammer 1  maul_d 0  6750211 9223635925844623584 759 20 9.000000 100 0 0 0 14 38912 85 0 75 0 256 550
+ 0
 0
 
  itm_sickle Sickle Sickle 1  sickle 0  12861442 9223372036879941646 160 0 1.500000 100 0 0 0 0 20480 99 0 40 0 256 20
+ 0
 0
 
  itm_cleaver Cleaver Cleaver 1  cleaver 0  12861442 9223372036879941646 260 0 1.500000 100 0 0 0 0 23552 103 0 30 0 256 23
+ 0
 0
 
  itm_butchering_knife Butcher's_Knife Butcher's_Knife 1  khyber_knife 0  12582914 9223372037953683471 320 20 0.750000 100 0 0 0 0 22528 96 0 52 0 272 22
+ 0
 0
 
  itm_hatchet Hatchet Hatchet 1  hatchet 0  80019458 9223388530091229198 340 20 2.000000 100 0 0 0 0 21504 86 0 58 0 256 21
+ 0
 0
 
- itm_pitch_fork Pitch_Fork Pitch_Fork 1  pitch_fork 0  138772484 4222124851986688 19 10 3.500000 100 0 0 0 0 0 83 0 154 0 274 512
+ itm_pitch_fork Pitch_Fork Pitch_Fork 1  pitch_fork 0  138739716 4222124851986688 19 10 3.500000 100 0 0 0 0 0 83 0 154 0 274 512
+ 0
 0
 
- itm_lance Lance Lance 1  spear_f_2-9m 0  138772484 4222124851986688 1120 10 5.000000 50 0 0 0 0 0 72 0 170 0 276 0
+ itm_lance Lance Lance 1  spear_f_2-9m 0  138739716 4222124851986688 1120 10 5.000000 50 0 0 0 0 0 72 0 170 0 276 0
+ 0
 0
 
- itm_staff Staff Staff 1  wooden_staff 0  138903556 4222129415393024 360 10 1.500000 50 0 0 0 0 18432 100 0 130 0 531 530
+ itm_staff Staff Staff 1  wooden_staff 0  138870788 4222129415393024 360 10 1.500000 50 0 0 0 0 18432 100 0 130 0 531 530
+ 0
 0
 
- itm_spear Spear Spear 1  spear_h_2-15m 0  138772484 4222131026005760 700 10 2.500000 60 0 0 0 0 12288 90 0 135 0 272 524
+ itm_spear Spear Spear 1  spear_h_2-15m 0  138739716 4222131026005760 700 10 2.500000 60 0 0 0 0 12288 90 0 135 0 272 524
+ 0
 0
 
  itm_cavalry_sabre_b Eaglehead_Sword Eaglehead_Sword 2  eaglehead_sword 0  scab_eaglehead_sword 3458764513820540928  4259842 9223388564182532110 1900 20 1.750000 40 0 0 0 0 26624 88 0 94 0 256 26
+ 0
 0
 
  itm_m1862_sabre Cavalry_Sabre Cavalry_Sabre 2  m1862_sabre 0  scab_m1862_sabre 3458764513820540928  4259842 9223388564182532110 1900 20 1.750000 40 0 0 0 0 26624 93 0 87 0 256 26
+ 0
 0
 
  itm_artillery_sword Artillery_Short_Sword Artillery_Short_Sword 2  roman_pattern 0  scab_roman_pattern 3458764513820540928  4259842 9223388529822793743 1050 20 1.000000 50 0 0 0 6 28672 106 0 70 0 280 28
+ 0
 0
 
  itm_machete Crooked_Machete Crooked_Machete 1  machete_a 0  4259842 9223388529822793742 600 20 1.000000 100 0 0 0 6 26624 96 0 45 0 256 26
+ 0
 0
 
  itm_machete_b Mexican_Machete Mexican_Machete 1  machete_b 0  4259842 9223388529822793742 600 20 1.000000 100 0 0 0 6 24576 100 0 45 0 256 24
+ 0
 0
 
  itm_axe_a Axe Axe 1  axe 0  73465859 9223635923965575392 450 20 3.000000 100 0 0 0 8 26624 78 0 80 0 256 26
+ 0
 0
 
  itm_broadaxe Broadaxe Broadaxe 1  broadaxe 0  79757314 9223388530091229198 620 20 1.750000 100 0 0 0 8 28672 81 0 60 0 256 28
+ 0
 0
 
  itm_pickaxe Pickaxe Pickaxe 1  pickaxe 0  79757314 9223388530091229198 360 20 2.500000 100 0 0 0 0 19456 82 0 90 0 256 275
+ 0
 0
 
  itm_2by4 Two_by_Four Two_by_Four 1  2by4 0  73793539 9223635923965575392 30 20 1.500000 100 0 0 0 0 13312 83 0 105 0 256 525
+ 0
 0
 
  itm_2by4nails Two_by_Four_With_Nails Two_by_Four_With_Nails 1  2by4nails 0  73793539 9223635923965575392 110 20 1.500000 100 0 0 0 0 19456 82 0 105 0 256 275
+ 0
 0
 
  itm_adze_a Carpenter's_Adze Carpenter's_Adze 1  adze_a 0  73859075 9223635923965575392 360 20 2.500000 100 0 0 0 8 21504 86 0 67 0 256 21
+ 0
 0
 
  itm_crowbar Crowbar Crowbar 1  crowbar 0  4259842 9223388529554358286 240 0 1.500000 100 0 0 0 0 23552 86 0 62 0 256 279
+ 0
 0
 
  itm_leadpipe Lead_Pipe Lead_Pipe 1  leadpipe 0  4259842 9223388529554358286 90 0 1.250000 70 0 0 0 0 19456 92 0 56 0 256 531
+ 0
 0
 
  itm_knife Box_Knife Box_Knife 1  boxknife 0  12664834 9223372037685248014 200 20 0.500000 100 0 0 0 0 23552 130 0 36 0 256 23
+ 0
 0
 
  itm_bigknife Big_Knife Big_Knife 1  bigknife 0  4259842 9223388529822793742 450 20 0.750000 100 0 0 0 6 25600 105 0 40 0 256 25
+ 0
 0
 
  itm_rifleman_knife Rifleman's_Knife Rifleman's_Knife 1  rifleman 0  4259842 9223388529822793742 560 20 0.750000 100 0 0 0 5 25600 96 0 48 0 277 25
+ 0
 0
 
  itm_toothpick Arkansas_Toothpick Arkansas_Toothpick 2  toothpick 0  toothpick_s 3458764513820540928  12664834 9223372072044986383 350 20 0.500000 100 0 0 0 0 26624 117 0 33 0 284 26
+ 0
 0
 
  itm_shovel Shovel Shovel 1  shovel 0  73859075 9223635923965575423 250 20 2.500000 100 0 0 0 8 22528 82 0 76 0 18 534
+ 0
 0
 
  itm_axehandle Axe_Handle Axe_Handle 1  axehandle 0  80150530 9223388530091229198 40 20 1.000000 100 0 0 0 0 15360 98 0 79 0 256 527
+ 0
 0
 
  itm_scalpingknife Scalping_Knife Scalping_Knife 1  scalpingknife 0  12664834 9223372037685248015 170 20 0.500000 100 0 0 0 0 17408 123 0 27 0 272 17
+ 0
 0
 
  itm_antlerknife Antler_Knife Antler_Knife 1  antlerknife 0  12664834 9223372037685248015 90 20 0.500000 100 0 0 0 0 13312 137 0 26 0 264 13
+ 0
 0
 
  itm_bowie Bowie_Knife Bowie_Knife 2  bowie 0  bowie_s 3458764513820540928  12664834 9223372072044986383 350 20 0.500000 100 0 0 0 0 28672 125 0 35 0 279 28
+ 0
 0
 
  itm_machete3 Large_Machete Large_Machete 1  machete3 0  4259842 9223388529822793742 720 20 1.250000 100 0 0 0 7 27648 93 0 58 0 256 27
+ 0
 0
 
  itm_ball_warclub Ball_Headed_War_Club Ball_Headed_War_Club 1  ballclub 0  4653058 9223388529554358286 140 0 1.000000 30 0 0 0 0 14336 90 0 60 0 256 526
+ 0
 0
 
  itm_iron_tomahawk Iron_Tomahawk Iron_Tomahawk 1  tomahawks_pipe 0  79757314 9223388530091229198 610 20 1.000000 50 0 0 0 0 25600 91 0 49 0 256 25
+ 0
 0
 
  itm_stone_tomahawk Stone_Tomahawk Stone_Tomahawk 1  hawk 0  79757314 9223388530091229198 280 20 1.000000 50 0 0 0 0 23552 85 0 48 0 256 23
+ 0
 0
 
  itm_gunclub Gunstock_Club Gunstock_Club 1  gunclub 0  4653058 9223388529554358286 260 0 1.000000 50 0 0 0 0 20480 90 0 70 0 256 532
+ 0
 0
 
  itm_gunclub2 Gunstock_Club Gunstock_Club 1  gunclub2 0  4653058 9223388529554358286 380 0 1.000000 50 0 0 0 0 22528 74 0 92 0 256 278
+ 0
 0
 
  itm_gunclub3 Gunstock_Club Gunstock_Club 1  gunclub3 0  4653058 9223388529554358286 380 0 1.000000 50 0 0 0 0 22528 74 0 92 0 256 278
+ 0
 0
 
- itm_spear_a Buffalo_Lance Buffalo_Lance 1  buffalo_lance 0  138510340 4222124851986688 600 10 4.000000 50 0 0 0 0 0 72 0 166 0 283 256
+ itm_spear_a Buffalo_Lance Buffalo_Lance 1  buffalo_lance 0  138477572 4222124851986688 600 10 4.000000 50 0 0 0 0 0 72 0 166 0 283 256
+ 0
 0
 
- itm_spear_b Ceremonial_Lance Ceremonial_Lance 1  ceremonial_lance 0  138510340 4222124851986688 600 10 4.000000 30 0 0 0 0 0 72 0 166 0 283 256
+ itm_spear_b Ceremonial_Lance Ceremonial_Lance 1  ceremonial_lance 0  138477572 4222124851986688 600 10 4.000000 30 0 0 0 0 0 72 0 166 0 283 256
+ 0
 0
 
- itm_spear_c Rusty_Spear Rusty_Spear 1  rusty_spear 0  138510340 4222124851986688 600 10 4.000000 50 0 0 0 0 0 72 0 154 0 283 256
+ itm_spear_c Rusty_Spear Rusty_Spear 1  rusty_spear 0  138477572 4222124851986688 600 10 4.000000 50 0 0 0 0 0 72 0 154 0 283 256
+ 0
 0
 
  itm_arrows Arrows Arrows 3  arrow 0  arrow 2305843009213693952  quiver 3458764513820540928  65541 2147483648 72 4398046511106 3.000000 160 0 0 0 0 0 0 0 95 30 257 0
+ 0
 0
 
  itm_khergit_arrows Razor_Arrows Razor_Arrows 3  arrow_b 0  arrow_b 2305843009213693952  quiver_b 3458764513820540928  65541 1610612736 410 4398046511106 3.500000 30 0 0 0 0 0 0 0 95 30 259 0
+ 0
 0
 
  itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  barbed_arrow 2305843009213693952  quiver_d 3458764513820540928  65541 1610612736 124 4398046511106 3.000000 70 0 0 0 0 0 0 0 95 30 258 0
+ 0
 0
 
  itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  piercing_arrow 0  piercing_arrow 2305843009213693952  quiver_c 3458764513820540928  65541 1610612736 350 4398046511106 3.000000 50 0 0 0 0 0 0 0 91 29 259 0
+ 0
 0
 
  itm_cartridges_bolts Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  6 0 400 0 1.500000 20 0 0 0 0 0 0 0 55 30 256 0
+ 0
 0
 
  itm_cartridges Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  18 0 400 0 1.500000 30 0 0 0 0 0 0 0 55 45 256 0
+ 0
 0
 
  itm_cartridges_bolts_100 Training_Rifle_Ammunition Training_Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  6 0 1 0 1.500000 100 0 0 0 0 0 0 0 55 100 257 0
+ 0
 0
 
  itm_cartridges_100 Training_Pistol_Ammunition Training_Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  18 0 1 0 1.500000 100 0 0 0 0 0 0 0 55 100 257 0
+ 0
 0
 
  itm_cartridges_bolts_0 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  65542 0 400 0 1.500000 100 0 0 0 0 0 0 0 55 20 256 0
+ 0
 0
 
  itm_cartridges_bolts_1 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  65542 0 440 0 1.500000 75 0 0 0 0 0 0 0 55 22 256 0
+ 0
 0
 
  itm_cartridges_bolts_2 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_2 1152921504606846976  65542 0 480 0 1.750000 60 0 0 0 0 0 0 0 55 24 256 0
+ 0
 0
 
  itm_cartridges_bolts_3 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_2 1152921504606846976  65542 0 520 0 2.000000 45 0 0 0 0 0 0 0 55 26 256 0
+ 0
 0
 
  itm_cartridges_bolts_4 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_3 1152921504606846976  65542 0 560 0 2.000000 35 0 0 0 0 0 0 0 55 28 256 0
+ 0
 0
 
  itm_cartridges_bolts_5 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_3 1152921504606846976  65542 0 600 0 2.250000 30 0 0 0 0 0 0 0 55 30 256 0
+ 0
 0
 
  itm_cartridges_bolts_6 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_4 1152921504606846976  65542 0 640 0 2.250000 25 0 0 0 0 0 0 0 55 32 256 0
+ 0
 0
 
  itm_cartridges_bolts_7 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_4 1152921504606846976  65542 0 680 0 2.500000 20 0 0 0 0 0 0 0 55 34 256 0
+ 0
 0
 
  itm_cartridges_bolts_8 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_5 1152921504606846976  65542 0 720 0 2.500000 15 0 0 0 0 0 0 0 55 36 256 0
+ 0
 0
 
  itm_cartridges_bolts_9 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_5 1152921504606846976  65542 0 760 0 2.750000 10 0 0 0 0 0 0 0 55 38 256 0
+ 0
 0
 
  itm_cartridges_bolts_10 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_5 1152921504606846976  65542 0 800 0 3.000000 5 0 0 0 0 0 0 0 55 40 256 0
+ 0
 0
 
  itm_cartridges_0 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol 1152921504606846976  65554 0 400 0 1.500000 100 0 0 0 0 0 0 0 55 30 256 0
+ 0
 0
 
  itm_cartridges_1 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol 1152921504606846976  65554 0 440 0 1.500000 75 0 0 0 0 0 0 0 55 33 256 0
+ 0
 0
 
  itm_cartridges_2 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_2 1152921504606846976  65554 0 480 0 1.750000 60 0 0 0 0 0 0 0 55 36 256 0
+ 0
 0
 
  itm_cartridges_3 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_2 1152921504606846976  65554 0 520 0 2.000000 45 0 0 0 0 0 0 0 55 39 256 0
+ 0
 0
 
  itm_cartridges_4 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_3 1152921504606846976  65554 0 560 0 2.000000 35 0 0 0 0 0 0 0 55 42 256 0
+ 0
 0
 
  itm_cartridges_5 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_3 1152921504606846976  65554 0 600 0 2.250000 30 0 0 0 0 0 0 0 55 45 256 0
+ 0
 0
 
  itm_cartridges_6 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_4 1152921504606846976  65554 0 640 0 2.250000 25 0 0 0 0 0 0 0 55 48 256 0
+ 0
 0
 
  itm_cartridges_7 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_4 1152921504606846976  65554 0 680 0 2.500000 20 0 0 0 0 0 0 0 55 51 256 0
+ 0
 0
 
  itm_cartridges_8 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_5 1152921504606846976  65554 0 720 0 2.500000 15 0 0 0 0 0 0 0 55 54 256 0
+ 0
 0
 
  itm_cartridges_9 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_5 1152921504606846976  65554 0 760 0 2.750000 10 0 0 0 0 0 0 0 55 57 256 0
+ 0
 0
 
  itm_cartridges_10 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_5 1152921504606846976  65554 0 800 0 3.000000 5 0 0 0 0 0 0 0 55 60 256 0
+ 0
 0
 
  itm_cartridges_end Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  18 0 613 0 1.500000 100 0 0 0 0 0 0 0 55 60 256 0
+ 0
 0
 
  itm_un_cartridges_bolts_0 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  33554443 0 400 0 1.500000 100 0 0 0 0 0 0 0 0 20 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_1 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  33554443 0 440 0 1.500000 100 0 0 0 0 0 0 0 0 22 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_2 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_2 1152921504606846976  33554443 0 480 0 1.750000 100 0 0 0 0 0 0 0 0 24 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_3 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_2 1152921504606846976  33554443 0 520 0 2.000000 100 0 0 0 0 0 0 0 0 26 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_4 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_3 1152921504606846976  33554443 0 560 0 2.000000 100 0 0 0 0 0 0 0 0 28 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_5 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_3 1152921504606846976  33554443 0 600 0 2.250000 100 0 0 0 0 0 0 0 0 30 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_6 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_4 1152921504606846976  33554443 0 640 0 2.250000 100 0 0 0 0 0 0 0 0 32 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_7 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_4 1152921504606846976  33554443 0 680 0 2.500000 100 0 0 0 0 0 0 0 0 34 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_8 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_5 1152921504606846976  33554443 0 720 0 2.500000 100 0 0 0 0 0 0 0 0 36 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_9 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_5 1152921504606846976  33554443 0 760 0 2.750000 100 0 0 0 0 0 0 0 0 38 0 0
+ 0
 0
 
  itm_un_cartridges_bolts_10 Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_5 1152921504606846976  33554443 0 800 0 3.000000 100 0 0 0 0 0 0 0 0 40 0 0
+ 0
 0
 
  itm_un_cartridges_0 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  33554443 0 400 0 1.500000 100 0 0 0 0 0 0 0 0 30 0 0
+ 0
 0
 
  itm_un_cartridges_1 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  33554443 0 440 0 1.500000 100 0 0 0 0 0 0 0 0 33 0 0
+ 0
 0
 
  itm_un_cartridges_2 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_2 1152921504606846976  33554443 0 480 0 1.750000 100 0 0 0 0 0 0 0 0 36 0 0
+ 0
 0
 
  itm_un_cartridges_3 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_2 1152921504606846976  33554443 0 520 0 2.000000 100 0 0 0 0 0 0 0 0 39 0 0
+ 0
 0
 
  itm_un_cartridges_4 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_3 1152921504606846976  33554443 0 560 0 2.000000 100 0 0 0 0 0 0 0 0 42 0 0
+ 0
 0
 
  itm_un_cartridges_5 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_3 1152921504606846976  33554443 0 600 0 2.250000 100 0 0 0 0 0 0 0 0 45 0 0
+ 0
 0
 
  itm_un_cartridges_6 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_4 1152921504606846976  33554443 0 640 0 2.250000 100 0 0 0 0 0 0 0 0 48 0 0
+ 0
 0
 
  itm_un_cartridges_7 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_4 1152921504606846976  33554443 0 680 0 2.500000 100 0 0 0 0 0 0 0 0 51 0 0
+ 0
 0
 
  itm_un_cartridges_8 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_5 1152921504606846976  33554443 0 720 0 2.500000 100 0 0 0 0 0 0 0 0 54 0 0
+ 0
 0
 
  itm_un_cartridges_9 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_5 1152921504606846976  33554443 0 760 0 2.750000 100 0 0 0 0 0 0 0 0 57 0 0
+ 0
 0
 
  itm_un_cartridges_10 Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet_pistol_5 1152921504606846976  33554443 0 800 0 3.000000 100 0 0 0 0 0 0 0 0 60 0 0
+ 0
 0
 
  itm_un_cartridges_end Pistol_Ammunition Pistol_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  18 0 800 0 3.000000 100 0 0 0 0 0 0 0 55 60 256 0
+ 0
 0
 
  itm_javelin Javelin Javelin 2  javelin 0  javelins_quiver 3458764513820540928  71303178 36507484160 750 4398046511112 5.000000 100 0 0 0 1 0 91 28 75 7 284 0
+ 0
 0
 
  itm_stones Stones Stones 1  throwing_stone 0  4194314 65536 40 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 523 0
+ 0
 0
 
  itm_throwing_knives Throwing_Knives Throwing_Knives 1  throwing_knife 0  4259850 131072 176 4398046511112 3.500000 100 0 0 0 0 0 121 25 0 15 23 0
+ 0
 0
 
  itm_throwing_knife Throwing_Boxknife Throwing_Boxknife 1  throwing_boxknife 0  4259850 131072 400 4398046511112 4.000000 100 0 0 0 0 0 102 25 0 10 28 0
+ 0
 0
 
  itm_iron_throwing_tomahawks Iron_Throwing_Tomahawks Iron_Throwing_Tomahawks 1  tomahawk 0  71368714 196608 950 4398046511106 5.000000 100 0 0 0 1 0 88 16 53 7 36 0
+ 0
 0
 
  itm_stone_throwing_tomahawks Stone_Throwing_Tomahawks Stone_Throwing_Tomahawks 1  hawk 0  71368714 196608 600 4398046511106 8.000000 100 0 0 0 1 0 89 16 48 7 24 0
+ 0
 0
 
  itm_hunting_bow Hunting_Bow Hunting_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6357000 5905584128 170 524298 1.000000 100 0 0 95 0 0 95 43 0 0 274 0
+ 0
 0
 
  itm_short_bow Short_Bow Short_Bow 2  short_bow 0  short_bow_carry 3458764513820540928  6357000 5905584128 380 524298 1.000000 100 0 0 92 1 0 98 47 0 0 276 0
+ 0
 0
 
  itm_nomad_bow Nomad_Bow Nomad_Bow 2  nomad_bow 0  nomad_bow_case 3458764513820540928  6357000 37312532480 540 524298 1.250000 100 0 0 92 2 0 98 47 0 0 278 0
+ 0
 0
 
  itm_long_bow Long_Bow Long_Bow 2  long_bow 0  long_bow_carry 3458764513820540928  6357000 5905584128 650 524298 1.750000 100 0 0 95 3 0 82 48 0 0 280 0
+ 0
 0
 
  itm_khergit_bow Recurve_Bow Recurve_Bow 2  khergit_bow 0  khergit_bow_case 3458764513820540928  6357000 37312532480 1090 524298 1.250000 100 0 0 91 3 0 95 51 0 0 279 0
+ 0
 0
 
  itm_strong_bow Strong_Bow Strong_Bow 2  strong_bow 0  strong_bow_case 3458764513820540928  6357000 37312532480 1570 524298 1.250000 100 0 0 92 3 0 90 52 0 0 281 0
+ 0
 0
 
  itm_war_bow War_Bow War_Bow 2  war_bow 0  war_bow_carry 3458764513820540928  6357000 5905584128 2080 524298 1.500000 100 0 0 95 4 0 84 53 0 0 283 0
+ 0
 0
 
  itm_dynamite Black_Powder_Charge Black_Powder_Charge 2  dynamite 0  nothing 2305843009213693952  5308426 131072 950 4398046511104 1.000000 100 0 0 99 0 0 96 0 8 2 513 0
+ 0
 1
 -51.000000  1 1 14 936748722493063540 1 18 0 0 1 300 700 150 -1 4 0 -1 1080863910568920044 
 
  itm_dynamite_big Black_Powder_Bundle Black_Powder_Bundle 2  dynamite_big 0  nothing 2305843009213693952  5308426 131072 1600 4398046511104 3.000000 100 0 0 99 0 0 96 0 8 1 513 0
+ 0
 1
 -51.000000  1 1 14 936748722493063540 1 18 0 0 1 300 1000 150 -1 4 0 -1 1080863910568920045 
 
  itm_springfield_shotgun Springfield_Shotgun Springfield_Shotgun 2  springfield_shotgun 0  springfield_shotgun_inv 1152921504606846976  73465865 4222130824691712 1025 0 4.500000 127 0 0 65 0 0 49 200 0 1 256 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 1 4 936748722493063560 2 14000 50 720 2 1 -11 721 2 1 122 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 100 
 
  itm_doublebarrelshotgun Double_Barreled_Shotgun Double_Barreled_Shotgun 2  doublebarrelshotgun 0  doublebarrelshotgun_inv 1152921504606846976  73465865 4222611861028864 3150 0 3.500000 110 0 0 60 0 0 64 200 0 2 256 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847104 1 4 936748722493063560 2 12000 41 720 2 1 -12 721 2 1 130 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 100 
 
  itm_coachgun Coach_Gun Coach_Gun 2  coachgun 0  coachgun_inv 1152921504606846976  73465865 16979884785664 2925 0 3.000000 90 0 0 50 0 0 73 200 0 2 256 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847104 1 4 936748722493063560 5 8000 44 720 2 1 -12 721 2 1 90 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 100 
 
  itm_shotgun8 Double_Eight_Gauge Double_Eight_Gauge 2  shotgun8 0  shotgun8_inv 1152921504606846976  74514441 4222130824691712 2900 0 4.500000 60 0 0 73 0 0 45 200 0 2 256 0
+ 0
 1
 -51.000000  16 600 1 1152921504606847220 1 4 936748722493063560 1 16000 55 720 2 1 -12 721 2 1 150 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 4 936748722493063560 5 3500 41 720 2 1 -12 721 2 1 90 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 100 
 
  itm_un_shotgun8 Double_Eight_Gauge Double_Eight_Gauge 2  shotgun8 0  shotgun8_inv 1152921504606846976  74448905 4222130824691712 2900 0 4.500000 60 0 0 70 1 0 45 200 0 2 256 0
+ 0
 1
 -51.000000  16 600 1 1152921504606847220 1 4 936748722493063560 1 16000 55 720 2 1 -12 721 2 1 150 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 4 936748722493063560 5 3500 41 720 2 1 -12 721 2 1 90 1969 3 1008806316530991168 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 100 
 
  itm_henry_a Henry_Repeating_Rifle Henry_Repeating_Rifle 2  henry_a 0  henry_a_inv 1152921504606846976  73465865 555929845760 5080 0 4.000000 50 0 0 88 0 0 30 200 0 15 303 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 130 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_henry_b Henry_Repeating_Rifle Henry_Repeating_Rifle 2  henry_b 0  henry_b_inv 1152921504606846976  73465865 555929845760 5080 0 4.000000 50 0 0 88 0 0 30 200 0 15 303 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 130 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_winchester_musket Winchester_Musket Winchester_Musket 2  winchester_musket 0  winchester_musket_inv 1152921504606846976  73465865 555929845760 6150 0 4.500000 20 0 0 91 0 0 31 200 0 17 304 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 146 1969 3 1008806316530991162 1 7 721 2 1 -36 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_winchester_rifle Winchester_Rifle Winchester_Rifle 2  winchester_rifle 0  winchester_rifle_inv 1152921504606846976  73465865 555929845760 5850 0 4.250000 35 0 0 90 0 0 34 200 0 15 303 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 130 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_winchester_carbine Winchester_Carbine Winchester_Carbine 2  winchester_carbine 0  winchester_carbine_inv 1152921504606846976  73465865 555929845760 5650 0 4.000000 35 0 0 88 0 0 39 200 0 13 302 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 125 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_winchester_shorty Sawn-Off_Winchester Sawn-Off_Winchester 2  winchester_shorty 0  winchester_shorty_inv 1152921504606846976  73465865 555929845760 5450 0 2.750000 5 0 0 83 0 0 67 180 0 7 301 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 75 1969 3 1008806316530991162 1 7 721 2 1 -15 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 180 
 
  itm_winchester_rifle_nickel Nickel-Plated_Winchester_Rifle Nickel-Plated_Winchester_Rifle 2  winchester_nickel 0  winchester_nickel_inv 1152921504606846976  73465865 555929845760 6450 0 4.250000 10 0 0 91 0 0 35 200 0 15 303 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 130 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_winchester_carbine_nickel Nickel-Plated_Winchester_Carbine Nickel-Plated_Winchester_Carbine 2  winchester_carbine_nickel 0  winchester_carbine_nickel_inv 1152921504606846976  73465865 555929845760 6250 0 4.000000 10 0 0 89 0 0 40 200 0 13 302 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847213 720 2 1 -12 721 2 1 125 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_starrcarbine Starr_Carbine Starr_Carbine 2  starrcarbine 0  starrcarbine_inv 1152921504606846976  73465865 4222611861028864 2245 0 3.500000 98 0 0 96 0 0 85 230 0 1 332 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847212 720 2 1 -9 721 2 1 108 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_sharps_carbine Sharps_1863_Carbine Sharps_1863_Carbine 2  sharps_carbine 0  sharps_carbine_inv 1152921504606846976  73465865 4222611861028864 2275 0 3.500000 120 0 0 96 0 0 87 230 0 1 330 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847212 720 2 1 -15 721 2 1 115 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_sharps_rifle Sharps_1859_Rifle Sharps_1859_Rifle 2  sharps_rifle 0  sharps_rifle_inv 1152921504606846976  73465865 4222611861028864 2299 0 4.000000 85 0 0 98 0 0 82 240 0 1 331 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847212 720 2 1 -10 721 2 1 135 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 240 
 
  itm_sharps_scoped Scoped_Sharps Scoped_Sharps 2  sharps_scoped 0  sharps_scoped_inv 1152921504606846976  341901321 4222611861536768 3075 0 4.500000 15 0 0 100 0 0 72 260 0 1 344 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847212 720 2 1 -10 721 2 1 135 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 260 
 
  itm_burnside Burnside_Carbine Burnside_Carbine 2  burnside 0  burnside_inv 1152921504606846976  73465865 4222611861028864 2125 0 4.250000 105 0 0 93 0 0 81 230 0 1 337 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847212 720 2 1 -13 721 2 1 113 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 230 
 
  itm_morse Morse_Carbine Morse_Carbine 2  morse 0  morse_inv 1152921504606846976  73465865 4222611861028864 2010 0 4.000000 30 0 0 94 0 0 80 230 0 1 333 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847212 720 2 1 -13 721 2 1 113 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 230 
 
  itm_smithcarbine Smith_Carbine Smith_Carbine 2  smithcarbine 0  smithcarbine_inv 1152921504606846976  73465865 4222611861028864 1625 0 3.250000 95 0 0 91 0 0 94 220 0 1 326 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847204 720 2 1 -13 721 2 1 97 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 
 
  itm_maynard Maynard_Carbine Maynard_Carbine 2  maynard 0  maynard_inv 1152921504606846976  73465865 4222611861028864 1595 0 3.250000 75 0 0 96 0 0 91 220 0 1 318 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -8 721 2 1 96 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 210 
 
  itm_tarpley Tarpley_Carbine Tarpley_Carbine 2  tarpley 0  tarpley_inv 1152921504606846976  73465865 4222611861028864 1337 0 3.000000 25 0 0 89 0 0 83 210 0 1 325 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847214 720 2 1 -13 721 2 1 113 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 210 
 
  itm_hallcarbine Hall-North_Carbine Hall-North_Carbine 2  hallcarbine 0  hallcarbine_inv 1152921504606846976  73465865 4222611861028864 795 0 3.250000 115 0 0 83 0 0 74 190 0 1 315 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847202 720 2 1 -13 721 2 1 118 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_joslyn Joslyn_M1864_Carbine Joslyn_M1864_Carbine 2  joslyn 0  joslyn_inv 1152921504606846976  73465865 4222611861028864 1555 0 3.750000 90 0 0 93 0 0 78 220 0 1 328 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -15 721 2 1 120 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_volcanic_rifle Smith_&_Wesson_Volcanic_Rifle Smith_&_Wesson_Volcanic_Rifle 2  volcanic_rifle 0  volcanic_rifle_inv 1152921504606846976  73465865 555929845760 3570 0 4.000000 25 0 0 82 0 0 33 150 0 25 288 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847219 720 2 1 -15 721 2 1 115 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 150 
 
  itm_spencer_a Spencer_Repeating_Rifle Spencer_Repeating_Rifle 2  spencer_a 0  spencer_a_inv 1152921504606846976  73465865 487210369024 5645 0 4.500000 90 0 0 92 0 0 43 230 0 7 322 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -15 721 2 1 125 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 230 
 
  itm_spencer_b Spencer_Repeating_Carbine Spencer_Repeating_Carbine 2  spencer_b 0  spencer_b_inv 1152921504606846976  73465865 487210369024 5555 0 3.750000 110 0 0 90 0 0 45 220 0 7 321 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -15 721 2 1 105 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 
 
  itm_triplett_a Triplett_&_Scott_Rifle Triplett_&_Scott_Rifle 2  triplett_a 0  triplett_a_inv 1152921504606846976  73465865 555929845760 5345 0 4.500000 50 0 0 93 0 0 37 230 0 7 321 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -15 721 2 1 130 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 230 
 
  itm_triplett_b Triplett_&_Scott_Carbine Triplett_&_Scott_Carbine 2  triplett_b 0  triplett_b_inv 1152921504606846976  73465865 555929845760 5295 0 4.500000 30 0 0 91 0 0 40 220 0 7 320 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -13 721 2 1 103 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 
 
  itm_ballcarbine Ball_Carbine Ball_Carbine 2  ballcarbine 0  ballcarbine_inv 1152921504606846976  73465865 555929845760 5415 0 4.000000 20 0 0 91 0 0 48 225 0 7 321 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847221 720 2 1 -13 721 2 1 106 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 225 
 
  itm_chassepot_rifle Chassepot_Rifle Chassepot_Rifle 2  chassepot_rifle 0  chassepot_rifle_inv 1152921504606846976  73400329 487210369024 2300 0 4.500000 50 0 0 97 0 0 97 250 0 1 325 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847218 720 2 1 -10 721 2 1 150 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 250 
 
  itm_enfield_trade_gun Pattern_1861_Enfield_Trade_Gun Pattern_1861_Enfield_Trade_Gun 3  enfield_carbine_indian 0  indian_gun_case_b 3458764513820540928  enfield_carbine_indian_inv 1152921504606846976  73465865 4222130824691712 1160 0 3.500000 80 0 0 93 0 0 53 210 0 1 341 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 115 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 210 721 2 1 -75 1969 3 1008806316530991167 1 1 
 
  itm_enfield_trade_gun_b Pattern_1860_Enfield_Trade_Gun Pattern_1860_Enfield_Trade_Gun 3  enfield_2band_indian 0  indian_gun_case 3458764513820540928  enfield_2band_indian_inv 1152921504606846976  74514441 4222130824691712 1070 0 3.750000 90 0 0 95 0 0 40 220 0 1 342 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 145 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -105 1969 3 1008806316530991167 1 1 
 
  itm_enfield_trade_gun_c Pattern_1853_Enfield_Trade_Gun Pattern_1853_Enfield_Trade_Gun 3  enfield_3band_indian 0  indian_gun_case_b 3458764513820540928  enfield_3band_indian_inv 1152921504606846976  74514441 4222130824691712 930 0 4.000000 90 0 0 94 0 0 39 220 0 1 342 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 160 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -120 1969 3 1008806316530991167 1 1 
 
  itm_enfield_carbine Pattern_1861_Enfield_Musketoon Pattern_1861_Enfield_Musketoon 2  enfield_carbine 0  enfield_carbine_inv 1152921504606846976  73465865 4222130824691712 1385 0 3.500000 120 0 0 95 0 0 53 210 0 1 342 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 115 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 210 721 2 1 -75 1969 3 1008806316530991167 1 1 
 
  itm_enfield_2band Pattern_1860_Enfield_Rifle Pattern_1860_Enfield_Rifle 2  enfield_2band 0  enfield_2band_inv 1152921504606846976  74514441 4222130824691712 1250 0 3.750000 127 0 0 97 0 0 41 220 0 1 343 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 145 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -105 1969 3 1008806316530991167 1 1 
 
  itm_enfield_3band Pattern_1853_Enfield_Rifle Pattern_1853_Enfield_Rifle 2  enfield_3band 0  enfield_3band_inv 1152921504606846976  74514441 4222130824691712 1140 0 4.000000 127 0 0 96 0 0 40 220 0 1 343 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 160 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -120 1969 3 1008806316530991167 1 1 
 
  itm_enfield_carbine_csa Confederate_Enfield_Carbine Confederate_Enfield_Carbine 2  enfield_carbine_csa 0  enfield_carbine_csa_inv 1152921504606846976  73465865 4222130824691712 1305 0 3.500000 115 0 0 94 0 0 52 210 0 1 342 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 115 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 210 721 2 1 -75 1969 3 1008806316530991167 1 1 
 
  itm_enfield_2band_csa Confederate_1860_Enfield_Rifle Confederate_1860_Enfield_Rifle 2  enfield_2band_csa 0  enfield_2band_csa_inv 1152921504606846976  74514441 4222130824691712 1150 0 3.750000 127 0 0 96 0 0 40 220 0 1 343 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 145 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -105 1969 3 1008806316530991167 1 1 
 
  itm_enfield_3band_csa Confederate_1853_Enfield_Rifle Confederate_1853_Enfield_Rifle 2  enfield_3band_csa 0  enfield_3band_csa_inv 1152921504606846976  74514441 4222130824691712 1050 0 4.000000 127 0 0 95 0 0 39 220 0 1 343 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 160 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -120 1969 3 1008806316530991167 1 1 
 
  itm_whitworth Whitworth_Rifle Whitworth_Rifle 2  whitworth 0  whitworth_inv 1152921504606846976  74514441 4222130824691712 1625 0 4.000000 50 0 0 100 0 0 37 250 0 1 347 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 150 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 250 721 2 1 -110 1969 3 1008806316530991167 1 1 
 
  itm_enfield_scoped Scoped_1853_Enfield Scoped_1853_Enfield 2  enfield_scoped 0  enfield_scoped_inv 1152921504606846976  341901321 4222130825199616 1875 0 5.000000 45 0 0 100 0 0 36 260 0 1 355 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 160 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 260 721 2 1 -120 1969 3 1008806316530991167 1 1 
 
  itm_snider Snider-Enfield Snider-Enfield 2  snider 0  snider_inv 1152921504606846976  73465865 4222611861028864 2560 0 4.250000 7 0 0 97 0 0 77 220 0 1 340 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847220 720 2 1 -8 721 2 1 152 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 
 
  itm_springfield_07 Springfield_M1816 Springfield_M1816 2  springfield_16 0  springfield_16_inv 1152921504606846976  74514441 4222130824691712 305 0 4.500000 127 0 0 79 0 0 34 195 0 1 344 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847222 720 2 1 -8 721 2 1 150 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 195 721 2 1 -110 1969 3 1008806316530991167 1 1 
 
  itm_springfield_42 Springfield_M1842 Springfield_M1842 2  springfield_42 0  springfield_42_inv 1152921504606846976  74514441 4222130824691712 625 0 4.500000 127 0 0 82 0 0 41 195 0 1 345 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -11 721 2 1 158 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 195 721 2 1 -110 1969 3 1008806316530991167 1 1 
 
  itm_springfield_42carbine Springfield_M1847_Musketoon Springfield_M1847_Musketoon 2  springfield_42carbine 0  springfield_42carbine_inv 1152921504606846976  73465865 4222130824691712 565 0 4.000000 127 0 0 76 0 0 53 190 0 1 344 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -11 721 2 1 122 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 190 721 2 1 -110 1969 3 1008806316530991167 1 1 
 
  itm_springfield Springfield_M1861 Springfield_M1861 2  springfield_61 0  springfield_61_inv 1152921504606846976  74514441 4222130824691712 1085 0 4.000000 127 0 0 96 0 0 41 220 0 1 344 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 160 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -120 1969 3 1008806316530991167 1 1 
 
  itm_coltriflealt Colt_M1855_Revolving_Rifle_.56 Colt_M1855_Revolving_Rifle_.56 2  colt1855alt 0  colt1855alt_inv 1152921504606846976  73465865 487210369024 4345 0 4.500000 55 0 0 91 0 0 42 200 0 5 323 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847214 720 2 1 -15 721 2 1 132 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_coltrifle Colt_M1855_Revolving_Rifle_.44 Colt_M1855_Revolving_Rifle_.44 2  colt1855 0  colt1855_inv 1152921504606846976  73465865 487210369024 3990 0 4.500000 65 0 0 92 0 0 44 200 0 6 305 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847208 720 2 1 -15 721 2 1 132 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 200 
 
  itm_coltcarbinealt Colt_M1855_Revolving_Carbine_.56 Colt_M1855_Revolving_Carbine_.56 2  colt1855carbinealt 0  colt1855carbinealt_inv 1152921504606846976  73465865 487210369024 4145 0 4.500000 45 0 0 87 0 0 47 195 0 5 322 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847214 720 2 1 -9 721 2 1 97 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 195 
 
  itm_coltcarbine Colt_M1855_Revolving_Carbine_.44 Colt_M1855_Revolving_Carbine_.44 2  colt1855carbine 0  colt1855carbine_inv 1152921504606846976  73465865 487210369024 3790 0 4.500000 60 0 0 88 0 0 49 195 0 6 304 0
+ 0
 1
 -51.000000  7 600 1 1152921504606847208 720 2 1 -9 721 2 1 97 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 195 
 
  itm_hawken Hawken_Rifle Hawken_Rifle 2  hawken 0  hawken_inv 1152921504606846976  74514441 4222130824691712 1450 0 4.500000 60 0 0 98 0 0 46 220 0 1 340 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847211 720 2 1 -8 721 2 1 138 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 220 721 2 1 -105 1969 3 1008806316530991167 1 1 
 
  itm_colt_navy_36 Colt_M1851_Navy Colt_M1851_Navy 2  coltnavy 0  holster 3458764513820540928  14745616 517812453376 1479 0 1.000000 127 0 0 72 0 0 45 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_navy_36_rusty Rusty_Colt_M1851_Navy Rusty_Colt_M1851_Navy 2  coltnavyrusty 0  holster 3458764513820540928  14745616 517812453376 1265 0 1.000000 110 0 0 68 0 0 44 160 0 6 284 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_navy_61 Colt_M1861_Navy Colt_M1861_Navy 2  coltnavy61 0  holster 3458764513820540928  14745616 517812453376 1505 0 1.000000 127 0 0 73 0 0 46 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_navy_61_rusty Rusty_Colt_M1861_Navy Rusty_Colt_M1861_Navy 2  coltnavy61rusty 0  holster 3458764513820540928  14745616 517812453376 1295 0 1.000000 110 0 0 69 0 0 45 160 0 6 284 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_navy_36_double Two_Colt_Navies Two_Colt_Navies 2  coltnavy_double 0  holster 3458764513820540928  10489616 517812453376 95 0 2.000000 100 0 0 68 0 0 43 160 0 12 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_army_44 Colt_M1860_Army Colt_M1860_Army 4  coltarmy 0  holster 3458764513820540928  coltarmyrusty 6291486  holster 3458764513826832414  14745616 517812453376 1595 0 1.250000 127 0 0 73 0 0 41 160 0 6 294 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847193 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_army_44_chrome Chromed_Colt_M1860_Army Chromed_Colt_M1860_Army 2  coltarmyalt 0  holster 3458764513820540928  14745616 517812453376 1695 0 1.250000 50 0 0 74 0 0 42 160 0 6 294 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847193 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_army_44_rusty Rusty_Colt_M1860_Army Rusty_Colt_M1860_Army 2  coltarmyrusty 0  holster 3458764513820540928  14745616 517812453376 1295 0 1.250000 110 0 0 69 0 0 40 160 0 6 292 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847193 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_colt_walker_44 Colt_M1847_Walker Colt_M1847_Walker 2  coltwalker 0  holster 3458764513820540928  12648464 517814550528 1865 0 1.750000 90 0 0 72 0 0 37 170 0 6 306 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847194 720 2 1 34 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 170 
 
  itm_remington_a Remington_New_Model_Navy Remington_New_Model_Navy 2  remington_black 0  holster 3458764513820540928  14745616 517812453376 1595 0 1.000000 70 0 0 74 0 0 59 160 0 6 284 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 29 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_remington_b Remington_New_Model_Army Remington_New_Model_Army 2  remington 0  holster 3458764513820540928  14745616 517812453376 1835 0 1.250000 90 0 0 78 0 0 58 160 0 6 293 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847193 720 2 1 31 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_remington_c Remington_New_Model_Custom Remington_New_Model_Custom 2  remington 0  holster 3458764513820540928  14680080 586531930112 135 0 1.250000 100 0 0 90 0 0 76 160 0 6 346 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847193 720 2 1 31 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_starr_sa Starr_Single_Action_Army Starr_Single_Action_Army 2  starr_sa 0  holster 3458764513820540928  14745616 517812453376 1675 0 1.250000 50 0 0 76 0 0 48 160 0 6 295 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847210 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_starr_da Starr_Double_Action_Army Starr_Double_Action_Army 2  starr_da 0  holster 3458764513820540928  14745616 517812453376 1600 0 1.250000 60 0 0 68 0 0 57 160 0 6 294 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847210 720 2 1 27 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_starr_triggerless Starr_Army_SA_Conversion Starr_Army_SA_Conversion 2  starr_triggerless 0  holster 3458764513820540928  14745616 517812453376 1655 0 1.250000 20 0 0 72 0 0 51 160 0 6 294 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847210 720 2 1 27 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_starr_navy_da Starr_Double_Action_Navy Starr_Double_Action_Navy 2  starr_navy_da 0  holster 3458764513820540928  14745616 517812453376 1525 0 1.250000 35 0 0 69 0 0 59 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847200 720 2 1 27 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_starr_navy_triggerless Starr_Navy_SA_Conversion Starr_Navy_SA_Conversion 2  starr_navy_triggerless 0  holster 3458764513820540928  14745616 517812453376 1580 0 1.250000 15 0 0 73 0 0 53 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847200 720 2 1 27 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_spiller_burr Spiller_&_Burr_Revolver Spiller_&_Burr_Revolver 2  spiller_burr 0  holster 3458764513820540928  14745616 517812453376 1595 0 1.250000 40 0 0 75 0 0 51 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 20 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_whitney Whitney_Navy_Revolver Whitney_Navy_Revolver 2  whitney 0  holster 3458764513820540928  14745616 517812453376 1623 0 1.250000 75 0 0 77 0 0 52 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 20 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_sharps_pepperbox Sharps_Pepperbox Sharps_Pepperbox 1  sharps_pepperbox 0  14745616 481036795904 500 0 0.250000 115 0 0 38 0 0 85 130 0 4 274 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847201 720 2 1 14 721 2 1 20 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_sharps_pepperbox_rusty Rusty_Sharps_Pepperbox Rusty_Sharps_Pepperbox 1  sharps_pepperbox_rusty 0  14745616 481036795904 300 0 0.250000 115 0 0 35 0 0 80 130 0 4 273 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847201 720 2 1 14 721 2 1 20 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_allen_t_pepperbox Allen_&_Thurber_Pepperbox Allen_&_Thurber_Pepperbox 1  AT_pepperbox 0  14745616 481036795904 740 0 0.750000 120 0 0 46 0 0 83 150 0 6 279 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847201 720 2 1 20 721 2 1 20 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_smithwesson2 Smith_&_Wesson_Model_2 Smith_&_Wesson_Model_2 2  smithwesson2 0  holster 3458764513820540928  14745616 586531930112 1250 0 0.750000 90 0 0 68 0 0 75 160 0 6 280 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 27 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_smithwesson1 Smith_&_Wesson_Model_1 Smith_&_Wesson_Model_1 1  smithwesson1 0  14745616 549756272640 950 0 0.500000 100 0 0 51 0 0 78 150 0 7 274 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847201 720 2 1 19 721 2 1 28 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_ger_pinfire Kirschbaum_Pinfire_Revolver Kirschbaum_Pinfire_Revolver 2  kirschbaum 0  holster 3458764513820540928  14745616 586531930112 1175 0 0.750000 55 0 0 65 0 0 66 160 0 6 282 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 27 721 2 1 35 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_fr_pinfire Lefaucheux_M1854 Lefaucheux_M1854 2  lefaucheaux 0  holster 3458764513820540928  14745616 586531930112 1475 0 1.000000 85 0 0 70 0 0 60 160 0 6 293 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847204 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 170 
 
  itm_beaumont_adams Beaumont-Adams Beaumont-Adams 2  beaumont_adams 0  holster 3458764513820540928  14745616 517812453376 1362 0 1.000000 90 0 0 68 0 0 54 160 0 5 295 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847210 720 2 1 15 721 2 1 30 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_rollingblock Remington_M1865_Rolling_Block Remington_M1865_Rolling_Block 2  rollingblock 0  holster 3458764513820540928  14745616 517812453376 1650 0 1.000000 30 0 0 83 0 0 99 160 0 1 308 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847190 720 2 1 25 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_volcanic_pistol Smith_&_Wesson_Volcanic_Pistol Smith_&_Wesson_Volcanic_Pistol 2  volcanic_pistol 0  holster 3458764513820540928  14745616 586531930112 1135 0 1.000000 35 0 0 62 0 0 48 140 0 10 276 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 20 721 2 1 34 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 140 
 
  itm_lemat LeMat_.42 LeMat_.42 2  lemat 0  holster 3458764513820540928  12648464 517814550528 1775 0 1.500000 45 0 0 70 0 0 38 160 0 9 291 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847210 720 2 1 26 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_savage Savage-North_Navy Savage-North_Navy 2  savage 0  holster 3458764513820540928  14745616 517812453376 1849 0 1.500000 75 0 0 79 0 0 52 160 0 6 287 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847219 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_m1842 Aston_M1842_Percussion_Pistol Aston_M1842_Percussion_Pistol 2  m1842 0  holster 3458764513820540928  14745616 517812453376 320 0 1.750000 127 0 0 62 0 0 37 150 0 1 301 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847190 720 2 1 30 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 720 2 1 -28 721 2 1 -15 1969 3 1008806316530991167 1 1 
 
  itm_lefau20 Twenty_Shot_Lefaucheux Twenty_Shot_Lefaucheux 2  lefau20 0  holster 3458764513820540928  14745616 586531930112 2750 0 1.250000 15 0 0 66 0 0 34 160 0 20 278 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 15 721 2 1 30 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_mortimer Mortimer_Revolver Mortimer_Revolver 2  mortimer 0  holster 3458764513820540928  14745616 517812453376 1295 0 1.000000 45 0 0 67 0 0 45 160 0 6 292 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847203 720 2 1 25 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_coltpocket Colt_M1849_Pocket Colt_M1849_Pocket 1  coltpocket 0  14745616 481036795904 915 0 0.500000 127 0 0 54 0 0 49 160 0 5 278 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 13 721 2 1 30 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_coltfargo Colt_M1849_Wells_Fargo Colt_M1849_Wells_Fargo 1  coltfargo 0  14745616 481036795904 860 0 0.500000 95 0 0 50 0 0 54 160 0 5 278 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 11 721 2 1 30 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_coltdragoon Colt_M1848_Dragoon Colt_M1848_Dragoon 2  coltdragoon 0  holster 3458764513820540928  14745616 517812453376 1425 0 1.500000 127 0 0 70 0 0 39 165 0 6 301 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847194 720 2 1 27 721 2 1 36 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 165 
 
  itm_coltpolice Colt_Pocket_Police Colt_Pocket_Police 2  coltpolice 0  holster 3458764513820540928  14745616 517812453376 1138 0 0.750000 110 0 0 65 0 0 50 160 0 5 284 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 20 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_moore Moore_Revolver Moore_Revolver 2  moore 0  holster 3458764513820540928  14745616 586531930112 1245 0 0.500000 75 0 0 65 0 0 66 160 0 7 280 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 18 721 2 1 32 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_bacon_navy Bacon_3rd_Model_Navy Bacon_3rd_Model_Navy 2  bacon 0  holster 3458764513820540928  14745616 586531930112 1455 0 1.000000 45 0 0 71 0 0 67 160 0 6 285 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847208 720 2 1 18 721 2 1 34 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_bootpistol Boot_Pistol Boot_Pistol 1  bootpistol 0  14745616 481036795904 210 0 0.500000 127 0 0 42 0 0 56 115 0 1 283 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847200 720 2 1 14 721 2 1 24 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 720 2 1 -18 721 2 1 -18 1969 3 1008806316530991167 1 1 
 
  itm_singleshot Boot_Pistol Boot_Pistol 1  singleshot 0  14745616 481036795904 150 0 0.500000 127 0 0 40 0 0 64 110 0 1 276 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847201 720 2 1 14 721 2 1 24 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 720 2 1 -18 721 2 1 -18 1969 3 1008806316530991167 1 1 
 
  itm_deringer Philadelphia_Deringer Philadelphia_Deringer 1  deringer 0  14745616 481036795904 455 0 0.500000 117 0 0 46 0 0 65 115 0 1 285 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847203 720 2 1 12 721 2 1 24 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 720 2 1 -18 721 2 1 -18 1969 3 1008806316530991167 1 1 
 
  itm_sawnoffshotgun Sawn-Off_Shotgun Sawn-Off_Shotgun 1  sawnoff 0  81854480 483452715008 2150 0 1.500000 20 0 0 40 0 0 85 200 0 2 256 0
+ 0
 1
 -51.000000  10 600 1 1152921504606847104 725 2 1 310 1 4 936748722493063560 8 4500 44 720 2 1 -12 721 2 1 70 1969 3 1008806316530991169 1 10 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 100 
 
  itm_baconpocket Bacon_Pocket Bacon_Pocket 2  baconpocket 0  holster 3458764513820540928  14745616 517812453376 1020 0 0.750000 80 0 0 64 0 0 49 160 0 5 280 0
+ 0
 1
 -51.000000  6 600 1 1152921504606847207 720 2 1 13 721 2 1 34 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_doublebarrel Double_Barrel_Pistol Double_Barrel_Pistol 2  doublebarrel 0  holster 3458764513820540928  14745616 517812453376 1385 0 0.500000 50 0 0 76 0 0 90 160 0 2 291 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847203 720 2 1 12 721 2 1 34 1969 3 1008806316530991163 1 7 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 720 2 1 -18 721 2 1 -18 1969 3 1008806316530991167 1 1 
 
  itm_banjo_rifle Banjo_Rifle Banjo_Rifle 1  banjo_rifle 0  73404425 555929845760 1000 0 3.500000 100 0 0 73 0 0 45 160 0 8 306 0
+ 0
 2
 -50.000000  1 1981 2 1729382256910270513 0 
 -51.000000  8 600 1 1152921504606847223 600 1 1152921504606847213 720 2 1 -3 721 2 1 130 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_umbrella_rifle Umbrella_Rifle Umbrella_Rifle 1  umbrella_rifle 0  74453001 4222130824691712 800 0 4.250000 100 0 0 82 0 0 30 160 0 1 334 0
+ 0
 2
 -50.000000  1 1981 2 1729382256910270514 0 
 -51.000000  9 600 1 1152921504606847211 720 2 1 -8 721 2 1 150 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 721 2 1 -110 1969 3 1008806316530991167 1 1 
 
  itm_colt1911 Strange_Colt Strange_Colt 2  colt1911 0  holster 3458764513820540928  14680080 517812453376 5 0 0.500000 100 0 0 77 0 0 86 160 0 8 292 0
+ 0
 1
 -51.000000  5 600 1 1152921504606847208 720 2 1 15 721 2 1 25 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 160 
 
  itm_torch Torch Torch 1  club 0  4194306 9223388529554358286 90 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
+ 0
 1
 -50.000000  5 1955 3 0 60 0 1965 1 1008806316530991114 1965 1 1008806316530991117 1950 3 150 130 70 1960 2 10 30 
 
  itm_strange_armor Strange_Armor Strange_Armor 1  samurai_armor 0  16777229 0 1259 33554596 18.000000 100 0 38 19 7 0 0 0 0 0 0 0
+ 0
 0
 
  itm_strange_boots Strange_Boots Strange_Boots 1  samurai_boots 0  3854 0 465 123731968 1.000000 100 0 0 21 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_strange_helmet Strange_Helmet Strange_Helmet 1  samurai_helmet 0  12 0 824 167772326 2.000000 100 44 0 0 7 0 0 0 0 0 0 0
+ 0
 0
 
  itm_strange_sword Strange_Sword Strange_Sword 2  katana 0  katana_scabbard 3458764513820540928  4194307 9223635962888716543 679 20 2.000000 100 0 0 0 9 32768 108 0 95 0 274 32
+ 0
 0
 
  itm_strange_great_sword Strange_Great_Sword Strange_Great_Sword 2  no_dachi 0  no_dachi_scabbard 3458764513820540928  6291459 9223635958593749216 920 20 3.500000 100 0 0 0 11 38912 92 0 125 0 256 38
+ 0
 0
 
  itm_strange_short_sword Strange_Short_Sword Strange_Short_Sword 2  wakizashi 0  wakizashi_scabbard 3458764513820540928  4194306 9223388573040902159 321 20 1.250000 100 0 0 0 0 25600 108 0 65 0 275 25
+ 0
 0
 
- itm_saloon_table Saloon_Table Saloon_Table 1  saloon_table_weapon 0  138706948 4222124851990272 0 10 4.000000 100 0 0 0 0 19456 60 0 120 0 537 531
+ itm_saloon_table Saloon_Table Saloon_Table 1  saloon_table_weapon 0  138674180 4222124851990272 0 10 4.000000 100 0 0 0 0 19456 60 0 120 0 537 531
+ 0
 0
 
  itm_woodchair_tonfa Tonfa Tonfa 1  woodchair_tonfa 0  4194306 9223388529554358287 0 20 1.500000 100 0 0 0 0 18432 100 0 40 0 527 530
+ 0
 0
 
  itm_woodchair_shield Chair_Shield Chair_Shield 1  woodchair_shield 0  266247 0 42 33554466 2.000000 100 0 1 0 0 30 100 0 50 0 0 0
+ 0
 0
 
- itm_broom Broom Broom 1  broom1 0  138706948 4222131026005760 0 10 4.000000 100 0 0 0 0 14336 60 0 120 0 517 526
+ itm_broom Broom Broom 1  broom1 0  138674180 4222131026005760 0 10 4.000000 100 0 0 0 0 14336 60 0 120 0 517 526
+ 0
 1
 -50.000000  1 1981 2 1729382256910270515 0 
 
  itm_stones_of_death Stones_of_Death Stones_of_Death 1  throwing_stone 0  4194314 65536 40 4398046511104 4.000000 100 0 0 0 0 0 97 30 8 18 523 0
+ 0
 0
 
- itm_mighty_broom The_Mighty_Broom The_Mighty_Broom 1  broom1 0  138706948 4222131026005760 0 10 4.000000 100 0 0 0 0 14336 60 0 120 0 517 526
+ itm_mighty_broom The_Mighty_Broom The_Mighty_Broom 1  broom1 0  138674180 4222131026005760 0 10 4.000000 100 0 0 0 0 14336 60 0 120 0 517 526
+ 0
 1
 -50.000000  1 1981 2 1729382256910270515 0 
 
  itm_banjo Banjo Banjo 1  banjo 0  6291465 555929845760 100 0 3.500000 25 0 0 0 0 0 49 160 0 0 256 0
+ 0
 2
 -50.000000  1 1981 2 1729382256910270513 0 
 -51.000000  1 600 1 1152921504606847223 
 
  itm_deer Deer Deer 1  deer 0  4097 0 1411 41876193280 0.000000 40 0 0 0 10 40 32 40 0 0 20 0
+ 0
 0
 
  itm_buffalo Buffalo Buffalo 1  buffalo 0  4097 0 1411 41876193280 0.000000 40 0 5 0 10 60 27 30 0 0 35 0
+ 0
 0
 
  itm_invisible_armor Invisible_Armor Invisible_Armor 1  nothing 0  16777229 0 50 123731968 0.000000 100 0 99 99 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_invisible_helmet Invisible_Helmet Invisible_Helmet 1  nothing 0  2147483660 0 6 123731968 0.000000 100 99 0 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_invisible_boots Invisible_Boots Invisible_Boots 1  nothing 0  14 0 3 123731968 0.000000 100 0 0 99 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_invisible_gloves Invisible_Gloves Invisible_Gloves 1  nothing 0  15 0 130 123731968 0.250000 120 0 99 0 0 0 0 0 0 0 0 0
+ 0
 0
 
  itm_springfield_z Springfield_M1861 Springfield_M1861 2  springfield_61 0  springfield_61_inv 1152921504606846976  74514441 4222124650676224 1085 0 4.000000 127 0 0 96 0 0 42 220 0 1 339 0
+ 0
 1
 -51.000000  9 600 1 1152921504606847220 720 2 1 -8 721 2 1 160 1969 3 1008806316530991162 1 7 721 2 1 -30 1969 3 1008806316530991166 1 1 1 3 936748722493063538 1 300 721 2 1 -120 1969 3 1008806316530991167 1 1 
 
- itm_springfield_61_bayonet Springfield_Bayonet Springfield_Bayonet 1  springfield_61_bayonet 0  6324228 4222124650663680 400 10 5.000000 100 0 0 0 0 20480 72 0 154 0 281 532
+ itm_springfield_61_bayonet Springfield_Bayonet Springfield_Bayonet 1  springfield_61_bayonet 0  6291460 4222124650663680 400 10 5.000000 100 0 0 0 0 20480 72 0 154 0 281 532
+ 0
 0
 
  itm_cartridges_bolts_useless Rifle_Ammunition Rifle_Ammunition 3  nothing 0  nothing 2305843009213693952  bullet 1152921504606846976  6 0 400 0 1.500000 20 0 0 0 0 0 0 0 55 1 256 0
+ 0
 0
 
  itm_end Invisible_Gloves Invisible_Gloves 1  nothing 0  15 0 130 123731968 0.250000 120 0 99 0 0 0 0 0 0 0 0 0
+ 0
 0
 

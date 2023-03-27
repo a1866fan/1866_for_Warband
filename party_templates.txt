@@ -35,8 +35,8 @@ pt_spy_partners Unremarkable_Travellers 844424930459665 0 5 7 562 1 1 0 -1 -1 -1
 pt_runaway_serfs Runaway_Settlers 2251799814012930 0 5 7 122 6 7 0 132 3 3 0 -1 -1 -1 -1 
 pt_spy Ordinary_Traveller 844424930459665 0 5 7 561 1 1 0 -1 -1 -1 -1 -1 
 pt_sacrificed_messenger Sacrificed_Messenger 844424930459665 0 5 7 -1 -1 -1 -1 -1 -1 
-pt_bounty_hunters_honorable Honorable_Bounty_Hunters 18 0 51 524425 138 1 1 0 -1 -1 -1 -1 -1 
-pt_bounty_hunters_dishonorable Dishonorable_Bounty_Hunters 18 0 51 524425 138 1 1 0 -1 -1 -1 -1 -1 
+pt_bounty_hunters_honorable Honorable_Bounty_Hunters 18 0 51 137 138 1 1 0 -1 -1 -1 -1 -1 
+pt_bounty_hunters_dishonorable Dishonorable_Bounty_Hunters 18 0 51 137 138 1 1 0 -1 -1 -1 -1 -1 
 pt_forager_party Foraging_Party 1407374887747601 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_scout_party Scouts 281474980904977 0 1 312 -1 -1 -1 -1 -1 -1 
 pt_patrol_party Patrol 562949957615633 0 1 137 -1 -1 -1 -1 -1 -1 
