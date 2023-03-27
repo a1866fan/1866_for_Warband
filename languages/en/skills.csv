@@ -1,0 +1,50 @@
+skl_ironflesh|Hardiness
+skl_ironflesh_desc|Increases hit points by +2 per skill level. (Personal skill).
+skl_power_strike|Power Strike
+skl_power_strike_desc|Increases melee damage by 8%% per skill level. (Personal skill)
+skl_power_throw|Power Throw
+skl_power_throw_desc|Increases throwing damage by 10%% per skill level. (Personal skill)
+skl_power_draw|Power Draw
+skl_power_draw_desc|Prerequisite for using advanced bows.  Additionally increases bow damage by 14%% (up to four plus Power Draw requirement of the bow). (Personal skill)
+skl_weapon_master|Weapon Master
+skl_weapon_master_desc|Increases the weapon proficiency limit and the rate of proficiency increase.  Limits occcur at 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Personal skill)
+skl_shield|Shield
+skl_shield_desc|Reduces damage to shields (by 8%% per skill level) and improves shield speed and coverage. (Personal skill)
+skl_athletics|Athletics
+skl_athletics_desc|Increases your running speed. (Personal skill)
+skl_riding|Horseback Riding
+skl_riding_desc|Prerequisite for using advanced horses.  Additionally increases riding and manueverability while mounted. (Personal skill)
+skl_horse_archery|Horseback Accuracy
+skl_horse_archery_desc|Reduces both damage and accuracy penalties for firearms, bows, and thrown weapons while mounted. (Personal skill)
+skl_looting|Looting
+skl_looting_desc|Increases the amount of loot obtained by 10%% per skill level. (Party skill)
+skl_trainer|Training
+skl_trainer_desc|Every day, each hero with this skill adds experience to party members whose level is lower than theirs.  Experience gained goes as: {0,4,10,16,23,30,38,46,55,65,80}. (Personal skill)
+skl_tracking|Tracking
+skl_tracking_desc|Tracks become more informative with each level of this skill. (Party skill)
+skl_tactics|Tactics
+skl_tactics_desc|Every two levels of this skill increases starting battle advantage by 1. (Party skill)
+skl_pathfinding|Trail Blazing
+skl_pathfinding_desc|Increases party movement speed by 3%% per skill level. (Party skill)
+skl_spotting|Spotting
+skl_spotting_desc|Increases party visibilty range by 10%% per skill level and increases ambush detection range. (Party skill)
+skl_inventory_management|Inventory Management
+skl_inventory_management_desc|Increases inventory capacity by +6 per skill level. (Leader skill)
+skl_wound_treatment|Wound Treatment
+skl_wound_treatment_desc|Increases party healing speed by 20%% per skill level. (Party skill)
+skl_surgery|Surgery
+skl_surgery_desc|Each point to this skill gives a 4%% chance that a mortally struck party member will be wounded rather than killed. (Party skill)
+skl_first_aid|First Aid
+skl_first_aid_desc|Heroes regain 5%% of lost hit points lost during battle per skill level. (Party skill)
+skl_engineer|Engineering
+skl_engineer_desc|Increases speed and efficiency when preparing to assault forts and when building settlement improvements. (Party skill)
+skl_persuasion|Persuasion
+skl_persuasion_desc|This skill helps you make other people accept your point of view. (Personal skill)
+skl_prisoner_management|Prisoner Management
+skl_prisoner_management_desc|Increases maximum number of prisoners by +5 per skill level. (Leader skill)
+skl_leadership|Leadership
+skl_leadership_desc|Increases the troop limit by +5, increases party morale by 5%%, and reduces troop wages by 5%% per skill level. (Leader skill)
+skl_trade|Trade
+skl_trade_desc|Reduces your trade penalty by 5%% per skill level. (Party skill)
+skl_reserved_14|Stockpiling
+skl_reserved_14_desc|Increases the amount of pistol ammunition (+3) and rifle ammunition (+2) that can be carried. (Personal skill)

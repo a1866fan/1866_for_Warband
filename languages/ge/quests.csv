@@ -1,0 +1,82 @@
+﻿qst_deliver_message|Botschaft an {s13} überbringen
+qst_deliver_message_text|{s9} bat Euch, eine Botschaft an {s13} zu überbringen. {s13} war in {s4}, als Euch diese Quest angetragen wurde.
+qst_deliver_message_to_enemy_lord|Botschaft an {s13} überbringen
+qst_deliver_message_to_enemy_lord_text|{s9} bat Euch, eine Botschaft an {s13} von {s15} zu überbringen. {s13} war in {s4}, als Euch diese Quest angetragen wurde.
+qst_raise_troops|Findet {reg1} {s14}
+qst_raise_troops_text|{s9} bat Euch, {reg1} {s14} zu finden und sie ihm zu überbringen.
+qst_escort_lady|Eskortiert {s13} nach {s14}
+qst_escort_lady_text|None
+qst_deal_with_bandits_at_lords_village|Rettet das Dorf {s15} vor räuberischen Banditen
+qst_deal_with_bandits_at_lords_village_text|{s13} bat Euch, die sein Dorf {s15} heimsuchenden Banditen in die Flucht zu schlagen, und ihm dann Bericht zu erstatten.
+qst_collect_taxes|Treibt Steuern von {s3} ein
+qst_collect_taxes_text|{s9} bat Euch, Steuern von {s3} einzutreiben. Er bot euch ein Fünftel des dort eingetriebenen Geldes an.
+qst_hunt_down_fugitive|Schnappt {s4}
+qst_hunt_down_fugitive_text|{s9} bat Euch, den Flüchtigen namens {s4} zu fangen. Er soll im Moment in {s3} sein.
+qst_kill_local_merchant|Ermordet einen örtlichen Händler in {s3}
+qst_kill_local_merchant_text|{s9} bat Euch, einen örtlichen Händler in {s3} zu ermorden.
+qst_bring_back_runaway_serfs|Bringt flüchtige Leibeigene zurück
+qst_bring_back_runaway_serfs_text|{s9} bat Euch, drei Gruppen flüchtiger Leibeigener nach {s2} zurück zu bringen. Er sagte, alle drei Gruppen seien wahrscheinlich Richtung {s3} auf der Flucht.
+qst_follow_spy|Folgt dem Spion zum Treffen
+qst_follow_spy_text|{s11} bat Euch, dem Spion zu folgen, der {s12} verlassen wird. Ihr müsst darauf achten, nicht vom Spion entdeckt zu werden, da er sonst Verdacht schöpfen und umkehren könnte. Sobald der Spion sich mit seinem Komplizen trifft, müsst Ihr sie beide überfallen und nach {s11} zurückbringen.
+qst_capture_enemy_hero|Nehmt einen Fürst aus {s13} gefangen
+qst_capture_enemy_hero_text|TODO: {s11} bat Euch, einen Fürst aus {s13} gefangen zu nehmen.
+qst_lend_companion|Leiht Euren Gefährten {s3} an {s9} aus
+qst_lend_companion_text|{s9} bat Euch, ihm Euren Gefährten {s3} für eine Woche zu leihen.
+qst_collect_debt|Treibt die Summe ein, die {s3} {s9} schuldet
+qst_collect_debt_text|{s9} bat Euch, die Summe von {reg4} Dinaren einzutreiben, die {s3} ihm schuldet.
+qst_incriminate_loyal_commander|Belastet den loyalen Befehlshaber von {s13}, {s16}
+qst_incriminate_loyal_commander_text|None
+qst_raid_caravan_to_start_war|Überfallt {reg13} Karawanen von {s13}
+qst_raid_caravan_to_start_war_text|None
+qst_meet_spy_in_enemy_town|Trefft Spion in {s13}
+qst_meet_spy_in_enemy_town_text|None
+qst_capture_prisoners|Bringt {reg1} {s3} Gefangene
+qst_capture_prisoners_text|{s9} verlangte von Euch, ihm {reg1} {s3} als Gefangene zu bringen.
+qst_lend_surgeon|Verleiht Euren Wundarzt {s3} an {s1}
+qst_lend_surgeon_text|Verleiht Euren erfahrenen Wundarzt {s3} an {s1}.
+qst_follow_army|Folgt {s9}s Armee
+qst_follow_army_text|None
+qst_report_to_army|Meldet Euch bei {s13}, dem Marschall
+qst_report_to_army_text|None
+qst_deliver_cattle_to_army|Liefert {reg3} Stück Vieh bei {s13} ab
+qst_deliver_cattle_to_army_text|None
+qst_join_siege_with_army|Nehmt an der Belagerung von {s14} teil
+qst_join_siege_with_army_text|None
+qst_scout_waypoints|Späht {s13}, {s14} und {s15} aus
+qst_scout_waypoints_text|None
+qst_rescue_lord_by_replace|Rettet {s13} vor {s14}
+qst_rescue_lord_by_replace_text|None
+qst_deliver_message_to_prisoner_lord|Botschaft abliefern bei {s13} in {s14}
+qst_deliver_message_to_prisoner_lord_text|None
+qst_duel_for_lady|Fordert {s13} zu einer Waffenprobe heraus
+qst_duel_for_lady_text|None
+qst_move_cattle_herd|Bringt die Viehherde nach {s13}
+qst_move_cattle_herd_text|Der Gildenmeister von {s10} bat Euch, eine Viehherde nach {s13} zu bringen.
+qst_escort_merchant_caravan|Eskortiert Händlerkarawane nach {s8}
+qst_escort_merchant_caravan_text|Eskortiert die Händlerkarawane in die Stadt {s8}.
+qst_deliver_wine|Liefert {reg5} Einheiten {s6} in {s4} ab
+qst_deliver_wine_text|{s9} aus {s3} bat Euch, innerhalb von 7 Tagen {reg5} Einheiten {s6} in der Schänke in {s4} abzuliefern.
+qst_troublesome_bandits|Jagt räuberische Banditen
+qst_troublesome_bandits_text|{s9} of {s4} bat Euch, die räuberischen Banditen in der Nähe der Stadt zu jagen.
+qst_kidnapped_girl|Zahlt den Banditen das Lösegeld für das Mädchen
+qst_kidnapped_girl_text|Der Gildenmeister von {s4} gab Euch {reg12} Dinare, um das Lösegeld für ein von Banditen entführtes Mädchen zu zahlen. Ihr sollt die Banditen bei {s3} treffen und ihnen das Lösegeld zahlen. Danach sollt Ihr das Mädchen nach {s4} zurückbringen.
+qst_persuade_lords_to_make_peace|Stellt sicher, dass zwei Fürsten sich nicht dem Frieden entgegenstellen
+qst_persuade_lords_to_make_peace_text|Der Gildenmeister von {s4} versprach Euch {reg12} Dinare, wenn Ihr dafür sorgt, dass {s12} und {s13} nicht länger das Friedensabkommen zwischen {s15} und {s14} bedroht. Hierzu müsst Ihr sie entweder überzeugen oder sicherstellen, dass sie gefangen genommen werden und Gefangene bleiben, bis ein Friedensabkommen erreicht wird.
+qst_deal_with_looters|Nehmt Euch den Plünderern an
+qst_deal_with_looters_text|Der Gildenmeister von {s4} bat Euch, mehrere Plündererbanden in der Gegend von {s4} anzugreifen und alles wiedererlangte Plündergut zurückzubringen .
+qst_deal_with_night_bandits|Nehmt Euch der Nachtbanditen an
+qst_deal_with_night_bandits_text|TODO: Der Gildenmeister von {s14} bat Euch, die Nachtbanditen in {s14} anzugreifen.
+qst_deliver_grain|Bringt Weizen nach {s3}
+qst_deliver_grain_text|Der Dorfälteste von {s3} bat Euch, ihm {reg5} Bündel Weizen zu bringen.
+qst_deliver_cattle|Liefert {reg5} Stück Vieh in {s3} ab
+qst_deliver_cattle_text|Der Dorfälteste von {s3} bat Euch, ihm {reg5} Stück Vieh zu bringen.
+qst_train_peasants_against_bandits|Bildet die Bauern von {s13} gegen Banditen aus.
+qst_train_peasants_against_bandits_text|None
+qst_eliminate_bandits_infesting_village|Rettet das Dorf {s7} vor räuberischen Banditen
+qst_eliminate_bandits_infesting_village_text|Ein Dorfbewohner aus {s7} bat Euch inständig, ihr Dorf vor den Banditen zu retten, die sich dort eingenistet haben.
+qst_join_faction|Leistet {s1} den Treueschwur
+qst_join_faction_text|Findet {s1} und leistet ihm Euren Treueschwur.
+qst_rebel_against_kingdom|Helft {s13}, den Thron von {s14} zu erringen
+qst_rebel_against_kingdom_text|None{***}
+qst_quests_end|Questende
+qst_quests_end_text|.
