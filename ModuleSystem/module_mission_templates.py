@@ -42,6 +42,16 @@ from module_constants import *
 pilgrim_disguise = [itm_pilgrim_hood,itm_pilgrim_disguise,itm_practice_staff]
 af_castle_lord = af_override_horse | af_override_weapons| af_require_civilian
 
+# copied from native
+common_battle_init_banner = (
+  ti_on_agent_spawn, 0, 0, [],
+  [
+    (store_trigger_param_1, ":agent_no"),
+    (agent_get_troop_id, ":troop_no", ":agent_no"),
+    (call_script, "script_troop_agent_set_banner", "tableau_game_troop_label_banner", ":agent_no", ":troop_no"),
+  ])
+
+
 mission_templates = [
   ("town_default", 0, -1,
   "Default town visit",
@@ -6002,6 +6012,8 @@ mission_templates = [
     ],
     []),
 
+    common_battle_init_banner,
+
     (ti_tab_pressed, 0, 0, 
     [],
     [
@@ -6636,6 +6648,8 @@ mission_templates = [
       (display_message, "str_cant_use_inventory_now"),
     ],
     []),
+
+    common_battle_init_banner,
 
     (1, 0, 0, 
     [],
@@ -7291,6 +7305,8 @@ mission_templates = [
       (display_message, "str_cant_use_inventory_now"),
     ],
     []),
+
+    common_battle_init_banner,
 
     (1, 0, ti_once, 
     [
@@ -7948,6 +7964,8 @@ mission_templates = [
       (display_message, "str_cant_use_inventory_now"),
     ],
     []),
+
+    common_battle_init_banner,
 
     (1, 0, ti_once, 
     [
@@ -8612,6 +8630,8 @@ mission_templates = [
       (question_box, "str_do_you_want_to_retreat"),
     ]),
 
+    common_battle_init_banner,
+
     (ti_question_answered, 0, 0, 
     [],
     [
@@ -9243,6 +9263,8 @@ mission_templates = [
     [
       (question_box, "str_do_you_want_to_retreat"),
     ]),
+
+    common_battle_init_banner,
 
     (ti_question_answered, 0, 0, 
     [],
@@ -9918,6 +9940,8 @@ mission_templates = [
       (try_end),
     ]),
 
+    common_battle_init_banner,
+
     (0, 0, ti_once, 
     [],
     [
@@ -10526,6 +10550,8 @@ mission_templates = [
       (display_message, "str_cant_use_inventory_now"),
     ],
     []),
+
+    common_battle_init_banner,
 
     (ti_before_mission_start, 0, 0, 
     [
@@ -11275,6 +11301,8 @@ mission_templates = [
       (store_trigger_param_1, ":var0"),
       (call_script, "script_agent_reassign_team", ":var0"),
     ]),
+
+    common_battle_init_banner,
 
     (ti_tab_pressed, 0, 0, 
     [],
@@ -12134,6 +12162,8 @@ mission_templates = [
       (try_end),
     ]),
 
+    common_battle_init_banner,
+
     (ti_question_answered, 0, 0, 
     [],
     [
@@ -12844,6 +12874,8 @@ mission_templates = [
         (display_message, "str_can_not_retreat"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (ti_question_answered, 0, 0, 
     [],
@@ -13590,6 +13622,8 @@ mission_templates = [
         (display_message, "str_can_not_retreat"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (0, 0, ti_once, 
     [
@@ -14369,6 +14403,8 @@ mission_templates = [
         (display_message, "str_can_not_retreat"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (0, 0, ti_once, 
     [
@@ -15155,6 +15191,8 @@ mission_templates = [
       (try_end),
     ]),
 
+    common_battle_init_banner,
+
     (0, 0, ti_once, 
     [
       (main_hero_fallen),
@@ -15939,6 +15977,8 @@ mission_templates = [
         (display_message, "str_can_not_retreat"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (0, 0, ti_once, 
     [
@@ -16865,6 +16905,8 @@ mission_templates = [
         (display_message, "str_can_not_retreat"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (0, 0, ti_once, 
     [
@@ -28460,6 +28502,8 @@ mission_templates = [
     ],
     []),
 
+    common_battle_init_banner,
+
     (1, 0, 0, 
     [],
     [
@@ -29254,6 +29298,8 @@ mission_templates = [
       (try_end),
     ]),
 
+    common_battle_init_banner,
+
     (ti_question_answered, 0, 0, 
     [],
     [
@@ -29996,6 +30042,8 @@ mission_templates = [
         (question_box, "str_give_up_fight"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (ti_question_answered, 0, 0, 
     [],
@@ -30756,6 +30804,8 @@ mission_templates = [
         (question_box, "str_give_up_fight"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (ti_question_answered, 0, 0, 
     [],
@@ -31641,6 +31691,8 @@ mission_templates = [
         (display_message, "str_can_not_retreat"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (0, 0, ti_once, 
     [
@@ -32591,6 +32643,8 @@ mission_templates = [
         (question_box, "str_give_up_fight"),
       (try_end),
     ]),
+
+    common_battle_init_banner,
 
     (ti_question_answered, 0, 0, 
     [],

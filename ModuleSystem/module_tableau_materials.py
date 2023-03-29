@@ -79,6 +79,24 @@ tableaus = [
     (position_set_z, pos1, 300),
   ]),
 
+  # copied from native
+  ("game_troop_label_banner", 0, "tableau_with_transparency", 256, 256, -128, 0, 128, 256,
+   [
+       (store_script_param, ":banner_mesh", 1),
+
+       (cur_tableau_set_background_color, 0xFF888888),
+       (set_fixed_point_multiplier, 100),
+       (cur_tableau_set_camera_parameters, 0, 100, 100, 0, 100000),
+
+       (init_position, pos1),
+       (position_set_y, pos1, 120),
+       (cur_tableau_add_mesh, ":banner_mesh", pos1, 120, 0),
+     
+       #(init_position, pos1),
+       #(position_set_z, pos1, 10),
+       #(cur_tableau_add_mesh, "mesh_troop_label_banner", pos1, 112, 0),
+       ]),
+
   ("round_shield_1", 0, "sample_shield_round_1",  512, 256, 0, 0, 0, 0,
   [
     (store_script_param, ":var0", 1),

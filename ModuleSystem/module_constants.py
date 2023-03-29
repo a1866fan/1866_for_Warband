@@ -24,3 +24,41 @@ from ID_sounds import *
 from ID_strings import *
 from ID_tableau_materials import *
 from ID_troops import *
+
+slot_party_type                = 0  #spt_caravan, spt_town, spt_castle
+slot_faction_banner = 15
+slot_troop_banner_scene_prop    = 13 # important for kingdom heroes and player only
+tc_tavern_talk                = 14
+spt_kingdom_hero_party = 13
+slot_town_lord                 = 7
+
+banner_scene_props_begin = "spr_banner_a"
+banner_scene_props_end_minus_one = "spr_banner_f21"
+
+towns_begin = "p_town_1"
+castles_begin = "p_castle_1"
+villages_begin = "p_village_1"
+
+towns_end = castles_begin
+castles_end = villages_begin
+villages_end   = "p_salt_mine"
+
+walled_centers_begin = towns_begin
+walled_centers_end   = castles_end
+
+centers_begin = towns_begin
+centers_end   = villages_end
+
+banner_meshes_begin = "mesh_banner_a01"
+banner_meshes_end_minus_one = "mesh_banner_f21"
+
+kingdoms_end = "fac_kingdoms_end"
+
+npc_kingdoms_begin = "fac_kingdom_1"
+npc_kingdoms_end = kingdoms_end
+
+companions_begin = "trp_npc1"
+companions_end = "trp_kingdom_heroes_including_player_begin"
+
+arms_meshes_begin = "mesh_arms_a01"
+arms_meshes_end_minus_one = "mesh_arms_f21"

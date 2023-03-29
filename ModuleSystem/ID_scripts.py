@@ -440,5 +440,7 @@ script_faction_update_culture_of_owned_centers = 438
 script_check_remaining_troop_conditions = 439
 script_setup_generic_battle_scene = 440
 script_hunting_count_living_animals = 441
+script_troop_agent_set_banner = 442
+script_agent_troop_get_banner_mesh = 443
 
 

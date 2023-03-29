@@ -15,3 +15,4 @@ prsnt_retirement = 13
 prsnt_body_design = 14
 prsnt_player_wounded = 15
 prsnt_blackjack = 16
+prsnt_game_profile_banner_selection = 17
