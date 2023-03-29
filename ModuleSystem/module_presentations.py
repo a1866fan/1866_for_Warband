@@ -4007,6 +4007,18 @@ presentations = [
       ]),
     ]),
 
+  # copied from The Last Days of the Third Age mod
+  ("game_custom_battle_designer", mesh_load_window, 0,
+    [
+      (ti_on_presentation_load,
+       [
+         (presentation_set_duration, 0),
+
+         #swy-- boom! direct shortcut to the vanilla quick battle menu! how cool is that?
+         (jump_to_menu, "mnu_start_game_3")
+       ])
+    ]),
+  
 ]
 
 
