@@ -1890,7 +1890,7 @@ presentations = [
       (try_end),
       (try_begin),
         (gt, ":var0", 200),
-        (game_key_clicked, 20),
+        (game_key_clicked, gk_view_orders),
         (assign, "$g_presentation_battle_active", 0),
         (try_for_agents, ":var3"),
           (agent_set_slot, ":var3", 10, 0),

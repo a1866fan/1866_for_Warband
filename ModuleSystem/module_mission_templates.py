@@ -11539,7 +11539,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -12251,7 +12252,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -12989,7 +12991,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -13764,7 +13767,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -14545,7 +14549,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -15330,7 +15335,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -16233,7 +16239,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -17161,7 +17168,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -21089,7 +21097,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
@@ -32010,7 +32019,8 @@ mission_templates = [
     (0, 0, 0, 
     [],
     [
-      (game_key_clicked, 20),
+      (game_key_clicked, gk_view_orders),
+      (neg|is_presentation_active, "prsnt_battle"),
       (start_presentation, "prsnt_battle"),
     ]),
 
