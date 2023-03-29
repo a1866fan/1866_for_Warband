@@ -1,4 +1,4 @@
-1003
+998
 qstr_Next_Page Next_Page
 qstr_Candidate_#1:_{s1} Candidate_#1:_{s1}
 qstr_Candidate_#2:_{s1} Candidate_#2:_{s1}
@@ -328,11 +328,6 @@ qstr_Received_{reg1}_dama Received_{reg1}_damage.
 qstr_The_{s1}_Banda The_{s1}_Banda
 qstr_The_{s1}_Lawmen The_{s1}_Lawmen
 qstr_The_{s1}_Gang The_{s1}_Gang
-qstr_Delivered_{reg21}_da Delivered_{reg21}_damage.
-qstr_Delivered_{reg21}_dam Delivered_{reg21}_damage_to_horse.
-qstr_Received_{reg21}_dam Received_{reg21}_damage.
-qstr_Horse_received_{reg2 Horse_received_{reg21}_damage.
-qstr_{s11}_killed_by_{s10 {s11}_killed_by_{s10}.
 qstr__+{reg3} (+{reg3}
 qstr__{reg3} ({reg3}
 qstr_{s3}_*_honor_=_ {s3}_*_honor_=_
