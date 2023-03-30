@@ -35390,6 +35390,7 @@ mission_templates = [
     [
       (assign, "$stop_hunting", 0),
       (assign, "$num_buffalos_killed", 0),
+      (assign, "$leading_buffalo", 0),
     ],
     []),
 
@@ -35409,7 +35410,7 @@ mission_templates = [
       (try_end),
     ]),
 
-    (5, 0, 0, 
+    (0.5, 0, 0, 
     [
       (this_or_next|eq, "$leading_buffalo", 0),
       (neg|agent_is_alive, "$leading_buffalo"),
@@ -35451,6 +35452,7 @@ mission_templates = [
       (position_set_y, pos1, ":var11"),
       (position_set_z, pos1, 10000),
       (position_set_z_to_ground_level, pos1),
+      (agent_is_alive, "$leading_buffalo"),
       (agent_get_rider, ":var12", "$leading_buffalo"),
       (gt, ":var12", -1),
       (agent_set_scripted_destination, ":var12", pos1),
@@ -35553,6 +35555,7 @@ mission_templates = [
     (0.5, 0, 0, 
     [],
     [
+      (agent_is_alive, "$leading_buffalo"),
       (get_player_agent_no, reg1),
       (agent_get_position, pos1, reg1),
       (agent_get_position, pos4, "$leading_buffalo"),
