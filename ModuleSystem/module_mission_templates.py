@@ -34722,7 +34722,7 @@ mission_templates = [
     (0, 0, ti_once, 
     [],
     [
-      (set_fog_distance, 40),
+      (set_fog_distance, 40, 0x00897262),
       (try_for_agents, ":var0"),
         (agent_get_entry_no, ":var1", ":var0"),
         (is_between, ":var1", 6, 19),
