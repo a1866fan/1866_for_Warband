@@ -25,11 +25,11 @@ ui_control_attack_direction|Control attack dir.:
 ui_by_relative_enemy_position|By relative enemy position
 ui_by_inverse_mouse_movement|By inverse mouse movement
 ui_battle_size|Battle size:
-ui_show_attack_direction|Show attack direction:
-ui_show_targeting_reticule|Show targeting reticle:
-ui_show_names_of_friendly_troops|Show names of friendly troops:
-ui_report_damage|Report damage:
-ui_report_shot_difficulty|Report shot difficulty:
+ui_show_attack_direction|Show attack direction
+ui_show_targeting_reticule|Show targeting reticle
+ui_show_names_of_friendly_troops|Banners on Friendly Troops
+ui_report_damage|Report damage
+ui_report_shot_difficulty|Report shot difficulty
 ui_difficulty_rating_percentage|Difficulty Rating = %d%%
 ui_controls|Controls
 ui_video_options|Video Options
@@ -461,8 +461,8 @@ ui_quick_save|Quick Save
 ui_no_key_assigned|No key assigned
 ui_new_enemies_have_arrived|New enemies have arrived.
 ui_reinforcements_have_arrived|Reinforcements have arrived.
-ui_report_casualties|Report Casualties:
-ui_report_experience|Report Experience:
+ui_report_casualties|Report Casualties
+ui_report_experience|Report Experience
 ui_current_level_value|Current Level: %d
 ui_base_attribute_value|Base Attribute: %s
 ui_battle_controls|Battle Controls
